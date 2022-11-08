@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <!--   VSdocman config file for current project/solution.-->
+  <activeProfile>default</activeProfile>
+  <appSettings>
+    <add key="VBdocman_comNonCommented"><![CDATA[-1]]></add>
+    <add key="VBdocman_regexFilters"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<filters />]]></add>
+    <add key="VBdocman_customVar1"><![CDATA[]]></add>
+    <add key="VBdocman_comInterface"><![CDATA[-1]]></add>
+    <add key="VBdocman_outputPath"><![CDATA[$(ProjectDir)VSdoc]]></add>
+    <add key="VBdocman_useConditionalCompilation"><![CDATA[0]]></add>
+    <add key="VBdocman_customVar2"><![CDATA[]]></add>
+    <add key="VBdocman_SupportedXamarinIos"><![CDATA[]]></add>
+    <add key="VBdocman_enumSorting"><![CDATA[1]]></add>
+    <add key="VBdocman_comVariable"><![CDATA[-1]]></add>
+    <add key="VBdocman_comStdModule"><![CDATA[-1]]></add>
+    <add key="VBdocman_ListNamespacesWithShortNames"><![CDATA[0]]></add>
+    <add key="VBdocman_comPublic"><![CDATA[-1]]></add>
+    <add key="VBdocman_supportedPlatforms"><![CDATA[]]></add>
+    <add key="VBdocman_comProtected"><![CDATA[-1]]></add>
+    <add key="VBdocman_supportedNetFrameworkClientProfile"><![CDATA[]]></add>
+    <add key="VBdocman_comPrivate"><![CDATA[0]]></add>
+    <add key="VBdocman_comWriteDescription"><![CDATA[0]]></add>
+    <add key="VBdocman_comProtectedFriend"><![CDATA[-1]]></add>
+    <add key="VBdocman_comObject"><![CDATA[-1]]></add>
+    <add key="VBdocman_comDelegate"><![CDATA[-1]]></add>
+    <add key="VBdocman_supportedXnaFramework"><![CDATA[]]></add>
+    <add key="VBdocman_emptyOutputFolder"><![CDATA[0]]></add>
+    <add key="VBdocman_rootNamespaceCommentStyle"><![CDATA[2]]></add>
+    <add key="VBdocman_comEnumeration"><![CDATA[-1]]></add>
+    <add key="VBdocman_comMethod"><![CDATA[-1]]></add>
+    <add key="VBdocman_comProperty"><![CDATA[-1]]></add>
+    <add key="VBdocman_supportedNetCompactFramework"><![CDATA[]]></add>
+    <add key="VBdocman_removeAttributes"><![CDATA[0]]></add>
+    <add key="VBdocman_externalFilesFolder"><![CDATA[]]></add>
+    <add key="VBdocman_showFormsSeparate"><![CDATA[0]]></add>
+    <add key="VBdocman_generateJscriptSyntax"><![CDATA[-1]]></add>
+    <add key="VBdocman_generateCsharpSyntax"><![CDATA[-1]]></add>
+    <add key="VBdocman_allowMacrosInComments"><![CDATA[0]]></add>
+    <add key="VBdocman_linkForExternalNotInFramework"><![CDATA[0]]></add>
+    <add key="VBdocman_showInherited"><![CDATA[-1]]></add>
+    <add key="VBdocman_templateLocale"><![CDATA[en-US]]></add>
+    <add key="VBdocman_SupportedNetCore"><![CDATA[]]></add>
+    <add key="VBdocman_customVar3"><![CDATA[]]></add>
+    <add key="VBdocman_unbreakSourceLines"><![CDATA[0]]></add>
+    <add key="VBdocman_supportedNetFramework"><![CDATA[4.5, 4.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1]]></add>
+    <add key="VBdocman_pageFooterText"><![CDATA[Generated with <see href="http://www.helixoft.com/vsdocman/overview.html">VSdocman</see>]]></add>
+    <add key="VBdocman_comConstant"><![CDATA[-1]]></add>
+    <add key="VBdocman_supportedOthers"><![CDATA[]]></add>
+    <add key="VBdocman_comForm"><![CDATA[-1]]></add>
+    <add key="VBdocman_comStructure"><![CDATA[-1]]></add>
+    <add key="VBdocman_dontSortSeeAlsoList"><![CDATA[0]]></add>
+    <add key="VBdocman_templateFolder"><![CDATA[$(VSdocmanDir)Templates]]></add>
+    <add key="VBdocman_ConstantValueDisplay"><![CDATA[1]]></add>
+    <add key="VBdocman_helpTitle"><![CDATA[Assembly-CSharp Reference]]></add>
+    <add key="VBdocman_insertSourceGlobal"><![CDATA[0]]></add>
+    <add key="VBdocman_SupportedNetStandard"><![CDATA[]]></add>
+    <add key="VBdocman_SupportedXamarinMac"><![CDATA[]]></add>
+    <add key="VBdocman_comFriend"><![CDATA[0]]></add>
+    <add key="VBdocman_templatePath"><![CDATA[html_msdn2017.vbdt]]></add>
+    <add key="VBdocman_comDeclare"><![CDATA[-1]]></add>
+    <add key="VBdocman_conditionalConstants"><![CDATA[]]></add>
+    <add key="VBdocman_SupportedXamarinAndroid"><![CDATA[]]></add>
+    <add key="VBdocman_supportedNetForWindowsStoreApps"><![CDATA[]]></add>
+    <add key="VBdocman_ShowExtensionMethods"><![CDATA[-1]]></add>
+    <add key="VBdocman_supportedPortableClassLibrary"><![CDATA[]]></add>
+    <add key="VBdocman_generateCppSyntax"><![CDATA[-1]]></add>
+    <add key="VBdocman_customTopics"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<topics>
+  <topic>
+    <type>normal</type>
+    <is-default>yes</is-default>
+    <name>Assembly-CSharp Reference</name>
+    <id>assemblycsharp_reference</id>
+    <comment><![CDATA[<summary></summary>vsdocman_escaped_]_]_></comment>
+    <namespaces />
+    <topics>
+      <topic>
+        <type>placeholder</type>
+        <is-default>no</is-default>
+        <name />
+        <id>a6f5aff0a3b145318d3435fd7098ebc8</id>
+        <comment><![CDATA[vsdocman_escaped_]_]_></comment>
+        <namespaces />
+        <topics />
+      </topic>
+    </topics>
+  </topic>
+</topics>]]></add>
+    <add key="VBdocman_generateVbSyntax"><![CDATA[-1]]></add>
+    <add key="VBdocman_generateFsharpSyntax"><![CDATA[0]]></add>
+    <add key="VBdocman_comEventDecl"><![CDATA[-1]]></add>
+    <add key="VBdocman_GenerateReportFile"><![CDATA[0]]></add>
+    <add key="VBdocman_comEvent"><![CDATA[-1]]></add>
+    <add key="VBdocman_rootNamespaceText"><![CDATA[]]></add>
+    <add key="VBdocman_comModulesSaveExcluded"><![CDATA[-1]]></add>
+    <add key="VBdocman_comModules_Assets...Idle MoCap...DemoScene...idle_mocap_follow_player.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...LowPolyWater_Pack...Scripts...LowPolyWater.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...AnimationStarter.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...CameraDepthSlider.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...CameraRotator.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...FPSCounter.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...FPSUI.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...TouchRotator.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...Water...WaterArea.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...Water...WaterMaterialSwitcher.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...MobileDepthWater...Scripts...Water...WaterPropertyBlockSetter.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Code...CameraController.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Code...GUIControlsFREE.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Code...IKHandsFREE.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Code...RPGCharacterControllerFREE.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Code...RPGCharacterInputControllerFREE.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Code...RPGCharacterMovementControllerFREE.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Code...RPGCharacterWeaponControllerFREE.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...Bloom.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...ImageEffectBase.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...ImageEffects.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...PostEffectsBase.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...PostEffectsHelper.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...Quads.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...ScreenOverlay.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...ScreenSpaceAmbientObscurance.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...ScreenSpaceAmbientOcclusion.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...Elements...ImageEffects...Scripts...Triangles.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...Scripts...Gravity.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...Scripts...SimpleStateMachine.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Core...BSPTree.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Core...BruteForceMesh.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Core...SuperCharacterController.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Core...SuperCollider.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Core...SuperCollisionType.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Core...SuperMath.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Core...SuperStateMachine.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...DebugDraw.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...RPG Character Animation Pack FREE...SuperCharacterController...SuperCharacterController...Math3d.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...Supercyan Character Pack Free Sample...Scripts...CameraLogic.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...Supercyan Character Pack Free Sample...Scripts...Demo.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...Supercyan Character Pack Free Sample...Scripts...SimpleCharacterControl.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...Benchmark01.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...Benchmark01_UGUI.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...Benchmark02.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...Benchmark03.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...Benchmark04.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...CameraController.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...ChatController.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...EnvMapAnimator.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...ObjectSpin.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...ShaderPropAnimator.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...SimpleScript.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...SkewTextExample.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_DigitValidator.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_ExampleScript_01.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_FrameRateCounter.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_PhoneNumberValidator.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_TextEventCheck.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_TextEventHandler.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_TextInfoDebugTool.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_TextSelector_A.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_TextSelector_B.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMP_UiFrameRateCounter.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TMPro_InstructionOverlay.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TeleType.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TextConsoleSimulator.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TextMeshProFloatingText.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...TextMeshSpawner.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...VertexColorCycler.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...VertexJitter.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...VertexShakeA.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...VertexShakeB.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...VertexZoom.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...TextMesh Pro...Examples &amp; Extras...Scripts...WarpTextExample.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...rpg animations...scripts...HiderInTime.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...rpg animations...scripts...HidingMachineBehaviour.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...rpg animations...scripts...ScrollSwitcher.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...rpg animations...scripts...UI_no_weapon.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...rpg animations...scripts...UI_sword.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...rpg animations...scripts...WeaponHide.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_comModules_Assets...rpg animations...scripts...WorldInteraction.cs"><![CDATA[Off]]></add>
+    <add key="VBdocman_fileNamingConvention"><![CDATA[1]]></add>
+  </appSettings>
+</configuration>

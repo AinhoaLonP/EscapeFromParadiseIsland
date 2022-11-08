@@ -1,0 +1,1449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title=". constructor" Url="html/M-Assets.Scripts.Helpers.FPSCounter.-ctor.htm" />
+  <HelpKINode Title=".animation field" Url="html/F-Assets.MobileOptimizedWater.Scripts.AnimationStarter.animation.htm" />
+  <HelpKINode Title=".animator field" Url="html/F-Assets.MobileOptimizedWater.Scripts.AnimationStarter.animator.htm" />
+  <HelpKINode Title=".Awake method">
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.FPSUI.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.AnimationStarter.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.Scripts.Water.WaterMaterialSwitcher.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-LowPolyWater.LowPolyWater.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.Awake.htm" />
+  </HelpKINode>
+  <HelpKINode Title=".borderColor field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.borderColor.htm" />
+  <HelpKINode Title=".borderWidth field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.borderWidth.htm" />
+  <HelpKINode Title=".cameraDirectionToRoot field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.cameraDirectionToRoot.htm" />
+  <HelpKINode Title=".cameraDistance field" Url="html/F-global.idle_mocap_follow_player.cameraDistance.htm" />
+  <HelpKINode Title=".cameraHeight field" Url="html/F-global.idle_mocap_follow_player.cameraHeight.htm" />
+  <HelpKINode Title=".cameraRoot field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.cameraRoot.htm" />
+  <HelpKINode Title=".cameraTransform field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.cameraTransform.htm" />
+  <HelpKINode Title=".CreateMeshLowPoly method" Url="html/M-LowPolyWater.LowPolyWater.CreateMeshLowPoly.htm" />
+  <HelpKINode Title=".currentScrollSpeed field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.currentScrollSpeed.htm" />
+  <HelpKINode Title=".currentValue field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.currentValue.htm" />
+  <HelpKINode Title=".DataSize field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.DataSize.htm" />
+  <HelpKINode Title=".defaulPropertyBlock field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.defaulPropertyBlock.htm" />
+  <HelpKINode Title=".deltaTimeData field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.deltaTimeData.htm" />
+  <HelpKINode Title=".diffuseMaterial field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.diffuseMaterial.htm" />
+  <HelpKINode Title=".distortionTex field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.distortionTex.htm" />
+  <HelpKINode Title=".distortionTile field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.distortionTile.htm" />
+  <HelpKINode Title=".Fps property" Url="html/P-Assets.Scripts.Helpers.FPSCounter.Fps.htm" />
+  <HelpKINode Title=".fpsCounter field" Url="html/F-Assets.MobileOptimizedWater.Scripts.FPSUI.fpsCounter.htm" />
+  <HelpKINode Title=".fpsData field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.fpsData.htm" />
+  <HelpKINode Title=".fpsText field" Url="html/F-Assets.MobileOptimizedWater.Scripts.FPSUI.fpsText.htm" />
+  <HelpKINode Title=".Frequency field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.Frequency.htm" />
+  <HelpKINode Title=".GenerateWaves method" Url="html/M-LowPolyWater.LowPolyWater.GenerateWaves.htm" />
+  <HelpKINode Title=".GetAverageFps method" Url="html/M-Assets.Scripts.Helpers.FPSCounter.GetAverageFps.htm" />
+  <HelpKINode Title=".index field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.index.htm" />
+  <HelpKINode Title=".lastFrameCount field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.lastFrameCount.htm" />
+  <HelpKINode Title=".lastTime field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.lastTime.htm" />
+  <HelpKINode Title=".materialPropertyBlock field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.materialPropertyBlock.htm" />
+  <HelpKINode Title=".MaterialPropertyBlock property" Url="html/P-Assets.Scripts.Water.WaterPropertyBlockSetter.MaterialPropertyBlock.htm" />
+  <HelpKINode Title=".maxDistance field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.maxDistance.htm" />
+  <HelpKINode Title=".mesh field" Url="html/F-LowPolyWater.LowPolyWater.mesh.htm" />
+  <HelpKINode Title=".meshFilter field" Url="html/F-LowPolyWater.LowPolyWater.meshFilter.htm" />
+  <HelpKINode Title=".minDistance field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.minDistance.htm" />
+  <HelpKINode Title=".mouseSpeed field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.mouseSpeed.htm" />
+  <HelpKINode Title=".moveDirection field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.moveDirection.htm" />
+  <HelpKINode Title=".OnEnable method" Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.OnEnable.htm" />
+  <HelpKINode Title=".OnSliderValueChanged method" Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.OnSliderValueChanged.htm" />
+  <HelpKINode Title=".OnTriggerEnter method" Url="html/M-Assets.Scripts.Water.WaterMaterialSwitcher.OnTriggerEnter.htm" />
+  <HelpKINode Title=".OnTriggerExit method" Url="html/M-Assets.Scripts.Water.WaterMaterialSwitcher.OnTriggerExit.htm" />
+  <HelpKINode Title=".Player field" Url="html/F-global.idle_mocap_follow_player.Player.htm" />
+  <HelpKINode Title=".prevMousePos field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.prevMousePos.htm" />
+  <HelpKINode Title=".renderer field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.renderer.htm" />
+  <HelpKINode Title=".scrollDelta field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.scrollDelta.htm" />
+  <HelpKINode Title=".scrollSpeed field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.scrollSpeed.htm" />
+  <HelpKINode Title=".SetUpPropertyBlock method" Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.SetUpPropertyBlock.htm" />
+  <HelpKINode Title=".slider field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.slider.htm" />
+  <HelpKINode Title=".speed field">
+    <HelpKINode Title="speed Field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.speed.htm" />
+    <HelpKINode Title="speed Field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraRotator.speed.htm" />
+  </HelpKINode>
+  <HelpKINode Title=".Start method">
+    <HelpKINode Title="Start Method " Url="html/M-LowPolyWater.LowPolyWater.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Game.AudioManager.Start.htm" />
+  </HelpKINode>
+  <HelpKINode Title=".textureVisibility field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.textureVisibility.htm" />
+  <HelpKINode Title=".timer field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.timer.htm" />
+  <HelpKINode Title=".Update method">
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.FPSUI.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.TouchRotator.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-LowPolyWater.LowPolyWater.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Helpers.FPSCounter.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraRotator.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-global.idle_mocap_follow_player.Update.htm" />
+  </HelpKINode>
+  <HelpKINode Title=".UpdateDepthPosition method" Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.UpdateDepthPosition.htm" />
+  <HelpKINode Title=".vertices field" Url="html/F-LowPolyWater.LowPolyWater.vertices.htm" />
+  <HelpKINode Title=".waterColor field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterColor.htm" />
+  <HelpKINode Title=".waterDeep field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterDeep.htm" />
+  <HelpKINode Title=".waterDepthParam field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterDepthParam.htm" />
+  <HelpKINode Title=".waterHeight field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterHeight.htm" />
+  <HelpKINode Title=".waterMaterial field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.waterMaterial.htm" />
+  <HelpKINode Title=".waterMinAlpha field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterMinAlpha.htm" />
+  <HelpKINode Title=".waterProperties field" Url="html/F-Assets.Scripts.Water.WaterArea.waterProperties.htm" />
+  <HelpKINode Title=".WaterPropertyBlock property" Url="html/P-Assets.Scripts.Water.WaterArea.WaterPropertyBlock.htm" />
+  <HelpKINode Title=".waterRenderers field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterRenderers.htm" />
+  <HelpKINode Title=".waterTex field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterTex.htm" />
+  <HelpKINode Title=".waterTile field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterTile.htm" />
+  <HelpKINode Title=".waveFrequency field" Url="html/F-LowPolyWater.LowPolyWater.waveFrequency.htm" />
+  <HelpKINode Title=".waveHeight field" Url="html/F-LowPolyWater.LowPolyWater.waveHeight.htm" />
+  <HelpKINode Title=".waveLength field" Url="html/F-LowPolyWater.LowPolyWater.waveLength.htm" />
+  <HelpKINode Title=".waveOriginPosition field" Url="html/F-LowPolyWater.LowPolyWater.waveOriginPosition.htm" />
+  <HelpKINode Title="Action interface">
+    <HelpKINode Title="Action Interface" Url="html/T-Assets.Scripts.Actions.Action.htm" />
+    <HelpKINode Title="Action Members" Url="html/AllMembers.T-Assets.Scripts.Actions.Action.htm" />
+    <HelpKINode Title="about Action interface" Url="html/T-Assets.Scripts.Actions.Action.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.Action.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.Action.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.Action.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Action property">
+    <HelpKINode Title="Action Property " Url="html/P-Assets.Scripts.Game.CharacterAction.Action.htm" />
+    <HelpKINode Title="Action Property " Url="html/P-Assets.Scripts.Game.CharacterStats.Action.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Action.ActionDurationMilliseconds property" Url="html/P-Assets.Scripts.Actions.Action.ActionDurationMilliseconds.htm" />
+  <HelpKINode Title="Action.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.Action.ActionNameForMessages.htm" />
+  <HelpKINode Title="Action.DestinationName property" Url="html/P-Assets.Scripts.Actions.Action.DestinationName.htm" />
+  <HelpKINode Title="Action.FinishAction method" Url="html/M-Assets.Scripts.Actions.Action.FinishAction.htm" />
+  <HelpKINode Title="Action.MakeAction method" Url="html/M-Assets.Scripts.Actions.Action.MakeAction.htm" />
+  <HelpKINode Title="Action.SelectAction method" Url="html/M-Assets.Scripts.Actions.Action.SelectAction.htm" />
+  <HelpKINode Title="Action.StartAction method" Url="html/M-Assets.Scripts.Actions.Action.StartAction.htm" />
+  <HelpKINode Title="ActionDurationMilliseconds property">
+    <HelpKINode Title="ActionDurationMilliseconds Property " Url="html/P-Assets.Scripts.Actions.BaseAction.ActionDurationMilliseconds.htm" />
+    <HelpKINode Title="ActionDurationMilliseconds Property " Url="html/P-Assets.Scripts.Actions.Action.ActionDurationMilliseconds.htm" />
+    <HelpKINode Title="ActionDurationMilliseconds Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionDurationMilliseconds.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ActionName property">
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.HealAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BaseAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.LearnAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.TeachAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.RestAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BeHealedAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.ActionName.htm" />
+    <HelpKINode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.ActionName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ActionNameForMessages property">
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.Action.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.TeachAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.HealAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BaseAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.ActionNameForMessages.htm" />
+    <HelpKINode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.ActionNameForMessages.htm" />
+  </HelpKINode>
+  <HelpKINode Title="actionRemainingTime field" Url="html/F-Assets.Scripts.Game.CharacterController.actionRemainingTime.htm" />
+  <HelpKINode Title="actions field" Url="html/F-Assets.Scripts.Actions.ActionsManager.actions.htm" />
+  <HelpKINode Title="Actions property" Url="html/P-Assets.Scripts.Actions.ActionsManager.Actions.htm" />
+  <HelpKINode Title="ActionsManager class">
+    <HelpKINode Title="ActionsManager Class" Url="html/T-Assets.Scripts.Actions.ActionsManager.htm" />
+    <HelpKINode Title="ActionsManager Members" Url="html/AllMembers.T-Assets.Scripts.Actions.ActionsManager.htm" />
+    <HelpKINode Title="about ActionsManager class" Url="html/T-Assets.Scripts.Actions.ActionsManager.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.ActionsManager.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Actions.ActionsManager.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.ActionsManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ActionsManager.actions field" Url="html/F-Assets.Scripts.Actions.ActionsManager.actions.htm" />
+  <HelpKINode Title="ActionsManager.Actions property" Url="html/P-Assets.Scripts.Actions.ActionsManager.Actions.htm" />
+  <HelpKINode Title="ActivateBuildBoatButton method" Url="html/M-Assets.Scripts.Game.Inventory.ActivateBuildBoatButton.htm" />
+  <HelpKINode Title="AddHighscore method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.AddHighscore.htm" />
+  <HelpKINode Title="AddNewHighscore method" Url="html/M-Assets.Scripts.Highscores.Highscores.AddNewHighscore.htm" />
+  <HelpKINode Title="animation field" Url="html/F-Assets.MobileOptimizedWater.Scripts.AnimationStarter.animation.htm" />
+  <HelpKINode Title="animator field">
+    <HelpKINode Title="animator Field" Url="html/F-Assets.Scripts.Game.CharacterController.animator.htm" />
+    <HelpKINode Title="animator Field" Url="html/F-Assets.MobileOptimizedWater.Scripts.AnimationStarter.animator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Aptitude property" Url="html/P-Assets.Scripts.Game.CharacterStats.Aptitude.htm" />
+  <HelpKINode Title="Assets.Scripts.Actions namespace" Url="html/N-Assets.Scripts.Actions.htm" />
+  <HelpKINode Title="Assets.Scripts.Actions.Action interface">
+    <HelpKINode Title="Action Interface" Url="html/T-Assets.Scripts.Actions.Action.htm" />
+    <HelpKINode Title="Action Members" Url="html/AllMembers.T-Assets.Scripts.Actions.Action.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.ActionsManager class">
+    <HelpKINode Title="ActionsManager Class" Url="html/T-Assets.Scripts.Actions.ActionsManager.htm" />
+    <HelpKINode Title="ActionsManager Members" Url="html/AllMembers.T-Assets.Scripts.Actions.ActionsManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.BaseAction class">
+    <HelpKINode Title="BaseAction Class" Url="html/T-Assets.Scripts.Actions.BaseAction.htm" />
+    <HelpKINode Title="BaseAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.BaseDoubleAction class">
+    <HelpKINode Title="BaseDoubleAction Class" Url="html/T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+    <HelpKINode Title="BaseDoubleAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.BasePasiveAction class">
+    <HelpKINode Title="BasePasiveAction Class" Url="html/T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+    <HelpKINode Title="BasePasiveAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.BaseSimpleAction class">
+    <HelpKINode Title="BaseSimpleAction Class" Url="html/T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+    <HelpKINode Title="BaseSimpleAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.BeHealedAction class">
+    <HelpKINode Title="BeHealedAction Class" Url="html/T-Assets.Scripts.Actions.BeHealedAction.htm" />
+    <HelpKINode Title="BeHealedAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BeHealedAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.BuildBoatAction class">
+    <HelpKINode Title="BuildBoatAction Class" Url="html/T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+    <HelpKINode Title="BuildBoatAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.BuildRefugeAction class">
+    <HelpKINode Title="BuildRefugeAction Class" Url="html/T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+    <HelpKINode Title="BuildRefugeAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.HealAction class">
+    <HelpKINode Title="HealAction Class" Url="html/T-Assets.Scripts.Actions.HealAction.htm" />
+    <HelpKINode Title="HealAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.HealAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.LearnAction class">
+    <HelpKINode Title="LearnAction Class" Url="html/T-Assets.Scripts.Actions.LearnAction.htm" />
+    <HelpKINode Title="LearnAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.LearnAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.PickFoodAction class">
+    <HelpKINode Title="PickFoodAction Class" Url="html/T-Assets.Scripts.Actions.PickFoodAction.htm" />
+    <HelpKINode Title="PickFoodAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickFoodAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.PickResourcesAction class">
+    <HelpKINode Title="PickResourcesAction Class" Url="html/T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+    <HelpKINode Title="PickResourcesAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.PickWaterAction class">
+    <HelpKINode Title="PickWaterAction Class" Url="html/T-Assets.Scripts.Actions.PickWaterAction.htm" />
+    <HelpKINode Title="PickWaterAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickWaterAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.PsychologistBeTreatedAction class">
+    <HelpKINode Title="PsychologistBeTreatedAction Class" Url="html/T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+    <HelpKINode Title="PsychologistBeTreatedAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.PsychologistTreatAction class">
+    <HelpKINode Title="PsychologistTreatAction Class" Url="html/T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+    <HelpKINode Title="PsychologistTreatAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.RestAction class">
+    <HelpKINode Title="RestAction Class" Url="html/T-Assets.Scripts.Actions.RestAction.htm" />
+    <HelpKINode Title="RestAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.RestAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Actions.TeachAction class">
+    <HelpKINode Title="TeachAction Class" Url="html/T-Assets.Scripts.Actions.TeachAction.htm" />
+    <HelpKINode Title="TeachAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.TeachAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game namespace" Url="html/N-Assets.Scripts.Game.htm" />
+  <HelpKINode Title="Assets.Scripts.Game.CameraHandler class">
+    <HelpKINode Title="CameraHandler Class" Url="html/T-Assets.Scripts.Game.CameraHandler.htm" />
+    <HelpKINode Title="CameraHandler Members" Url="html/AllMembers.T-Assets.Scripts.Game.CameraHandler.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.CharacterAction class">
+    <HelpKINode Title="CharacterAction Class" Url="html/T-Assets.Scripts.Game.CharacterAction.htm" />
+    <HelpKINode Title="CharacterAction Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.CharacterActionsController class">
+    <HelpKINode Title="CharacterActionsController Class" Url="html/T-Assets.Scripts.Game.CharacterActionsController.htm" />
+    <HelpKINode Title="CharacterActionsController Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterActionsController.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.CharacterActionStatus enumeration" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="Assets.Scripts.Game.CharacterController class">
+    <HelpKINode Title="CharacterController Class" Url="html/T-Assets.Scripts.Game.CharacterController.htm" />
+    <HelpKINode Title="CharacterController Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterController.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.CharacterStats class">
+    <HelpKINode Title="CharacterStats Class" Url="html/T-Assets.Scripts.Game.CharacterStats.htm" />
+    <HelpKINode Title="CharacterStats Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStats.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.CharacterStatsManager class">
+    <HelpKINode Title="CharacterStatsManager Class" Url="html/T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+    <HelpKINode Title="CharacterStatsManager Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.Constants class">
+    <HelpKINode Title="Constants Class" Url="html/T-Assets.Scripts.Game.Constants.htm" />
+    <HelpKINode Title="Constants Members" Url="html/AllMembers.T-Assets.Scripts.Game.Constants.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.CourseOfTime class">
+    <HelpKINode Title="CourseOfTime Class" Url="html/T-Assets.Scripts.Game.CourseOfTime.htm" />
+    <HelpKINode Title="CourseOfTime Members" Url="html/AllMembers.T-Assets.Scripts.Game.CourseOfTime.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.DontDestroyAudio class">
+    <HelpKINode Title="DontDestroyAudio Class" Url="html/T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+    <HelpKINode Title="DontDestroyAudio Members" Url="html/AllMembers.T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Game.Inventory class">
+    <HelpKINode Title="Inventory Class" Url="html/T-Assets.Scripts.Game.Inventory.htm" />
+    <HelpKINode Title="Inventory Members" Url="html/AllMembers.T-Assets.Scripts.Game.Inventory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Highscores namespace" Url="html/N-Assets.Scripts.Highscores.htm" />
+  <HelpKINode Title="Assets.Scripts.Highscores.Highscore structure">
+    <HelpKINode Title="Highscore Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscore.htm" />
+    <HelpKINode Title="Highscore Structure" Url="html/T-Assets.Scripts.Highscores.Highscore.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Highscores.Highscores class">
+    <HelpKINode Title="Highscores Class" Url="html/T-Assets.Scripts.Highscores.Highscores.htm" />
+    <HelpKINode Title="Highscores Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscores.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Highscores.HighscoresDisplay class">
+    <HelpKINode Title="HighscoresDisplay Class" Url="html/T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+    <HelpKINode Title="HighscoresDisplay Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Highscores.HighscoresManager class">
+    <HelpKINode Title="HighscoresManager Class" Url="html/T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+    <HelpKINode Title="HighscoresManager Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.UI namespace" Url="html/N-Assets.Scripts.UI.htm" />
+  <HelpKINode Title="Assets.Scripts.UI.MainMenu class">
+    <HelpKINode Title="MainMenu Class" Url="html/T-Assets.Scripts.UI.MainMenu.htm" />
+    <HelpKINode Title="MainMenu Members" Url="html/AllMembers.T-Assets.Scripts.UI.MainMenu.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.UI.PauseMenu class">
+    <HelpKINode Title="PauseMenu Class" Url="html/T-Assets.Scripts.UI.PauseMenu.htm" />
+    <HelpKINode Title="PauseMenu Members" Url="html/AllMembers.T-Assets.Scripts.UI.PauseMenu.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.UI.PopupManager class">
+    <HelpKINode Title="PopupManager Class" Url="html/T-Assets.Scripts.UI.PopupManager.htm" />
+    <HelpKINode Title="PopupManager Members" Url="html/AllMembers.T-Assets.Scripts.UI.PopupManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.UI.TextUI class">
+    <HelpKINode Title="TextUI Class" Url="html/T-Assets.Scripts.UI.TextUI.htm" />
+    <HelpKINode Title="TextUI Members" Url="html/AllMembers.T-Assets.Scripts.UI.TextUI.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.UI.TutorialRectTransformSlider class">
+    <HelpKINode Title="TutorialRectTransformSlider Class" Url="html/T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+    <HelpKINode Title="TutorialRectTransformSlider Members" Url="html/AllMembers.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Utils namespace" Url="html/N-Assets.Scripts.Utils.htm" />
+  <HelpKINode Title="Assets.Scripts.Utils.Gender enumeration" Url="html/T-Assets.Scripts.Utils.Gender.htm" />
+  <HelpKINode Title="Assets.Scripts.Utils.StaticRandom class">
+    <HelpKINode Title="StaticRandom Class" Url="html/T-Assets.Scripts.Utils.StaticRandom.htm" />
+    <HelpKINode Title="StaticRandom Members" Url="html/AllMembers.T-Assets.Scripts.Utils.StaticRandom.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Assets.Scripts.Utils.Utils class">
+    <HelpKINode Title="Utils Class" Url="html/T-Assets.Scripts.Utils.Utils.htm" />
+    <HelpKINode Title="Utils Members" Url="html/AllMembers.T-Assets.Scripts.Utils.Utils.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssignRandomAttitudeAndAptitude method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.AssignRandomAttitudeAndAptitude.htm" />
+  <HelpKINode Title="AssignSecondaryAction method">
+    <HelpKINode Title="AssignSecondaryAction Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.AssignSecondaryAction.htm" />
+    <HelpKINode Title="AssignSecondaryAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.AssignSecondaryAction.htm" />
+    <HelpKINode Title="AssignSecondaryAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.AssignSecondaryAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Attitude property" Url="html/P-Assets.Scripts.Game.CharacterStats.Attitude.htm" />
+  <HelpKINode Title="Awake method">
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.Scripts.Highscores.Highscores.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.FPSUI.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.AnimationStarter.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-LowPolyWater.LowPolyWater.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.Scripts.Game.DontDestroyAudio.Awake.htm" />
+    <HelpKINode Title="Awake Method " Url="html/M-Assets.Scripts.Water.WaterMaterialSwitcher.Awake.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseAction class">
+    <HelpKINode Title="BaseAction Class" Url="html/T-Assets.Scripts.Actions.BaseAction.htm" />
+    <HelpKINode Title="BaseAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseAction.htm" />
+    <HelpKINode Title="about BaseAction class" Url="html/T-Assets.Scripts.Actions.BaseAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.BaseAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.BaseAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseAction.ActionDurationMilliseconds property" Url="html/P-Assets.Scripts.Actions.BaseAction.ActionDurationMilliseconds.htm" />
+  <HelpKINode Title="BaseAction.ActionName property" Url="html/P-Assets.Scripts.Actions.BaseAction.ActionName.htm" />
+  <HelpKINode Title="BaseAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.BaseAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="BaseAction.AssignSecondaryAction method" Url="html/M-Assets.Scripts.Actions.BaseAction.AssignSecondaryAction.htm" />
+  <HelpKINode Title="BaseAction.ChangeSecondaryCharacterStatus method" Url="html/M-Assets.Scripts.Actions.BaseAction.ChangeSecondaryCharacterStatus.htm" />
+  <HelpKINode Title="BaseAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.BaseAction.DestinationName.htm" />
+  <HelpKINode Title="BaseAction.FinishAction method" Url="html/M-Assets.Scripts.Actions.BaseAction.FinishAction.htm" />
+  <HelpKINode Title="BaseAction.LookAtSomething method" Url="html/M-Assets.Scripts.Actions.BaseAction.LookAtSomething.htm" />
+  <HelpKINode Title="BaseAction.MakeAction method" Url="html/M-Assets.Scripts.Actions.BaseAction.MakeAction.htm" />
+  <HelpKINode Title="BaseAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.BaseAction.MakeAMess.htm" />
+  <HelpKINode Title="BaseAction.MakesAction method" Url="html/M-Assets.Scripts.Actions.BaseAction.MakesAction.htm" />
+  <HelpKINode Title="BaseAction.MessText property" Url="html/P-Assets.Scripts.Actions.BaseAction.MessText.htm" />
+  <HelpKINode Title="BaseAction.SelectAction method" Url="html/M-Assets.Scripts.Actions.BaseAction.SelectAction.htm" />
+  <HelpKINode Title="BaseAction.StartAction method" Url="html/M-Assets.Scripts.Actions.BaseAction.StartAction.htm" />
+  <HelpKINode Title="BaseDoubleAction class">
+    <HelpKINode Title="BaseDoubleAction Class" Url="html/T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+    <HelpKINode Title="BaseDoubleAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+    <HelpKINode Title="about BaseDoubleAction class" Url="html/T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseDoubleAction.AssignSecondaryAction method" Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.AssignSecondaryAction.htm" />
+  <HelpKINode Title="BaseDoubleAction.button field" Url="html/F-Assets.Scripts.Actions.BaseDoubleAction.button.htm" />
+  <HelpKINode Title="BaseDoubleAction.ChangeSecondaryCharacterStatus method" Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.ChangeSecondaryCharacterStatus.htm" />
+  <HelpKINode Title="BaseDoubleAction.charAction field" Url="html/F-Assets.Scripts.Actions.BaseDoubleAction.charAction.htm" />
+  <HelpKINode Title="BaseDoubleAction.FinishAction method" Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.FinishAction.htm" />
+  <HelpKINode Title="BaseDoubleAction.FinishSpecificAction method" Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.FinishSpecificAction.htm" />
+  <HelpKINode Title="BaseDoubleAction.LookAtSomething method" Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.LookAtSomething.htm" />
+  <HelpKINode Title="BaseDoubleAction.SecondaryAction property" Url="html/P-Assets.Scripts.Actions.BaseDoubleAction.SecondaryAction.htm" />
+  <HelpKINode Title="BaseDoubleAction.SelectAction method" Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.SelectAction.htm" />
+  <HelpKINode Title="BaseDoubleAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.BaseDoubleAction.WhereToLookAt.htm" />
+  <HelpKINode Title="BasePasiveAction class">
+    <HelpKINode Title="BasePasiveAction Class" Url="html/T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+    <HelpKINode Title="BasePasiveAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+    <HelpKINode Title="about BasePasiveAction class" Url="html/T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasePasiveAction.ActionDurationMilliseconds property" Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionDurationMilliseconds.htm" />
+  <HelpKINode Title="BasePasiveAction.ActionName property" Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionName.htm" />
+  <HelpKINode Title="BasePasiveAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="BasePasiveAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.BasePasiveAction.DestinationName.htm" />
+  <HelpKINode Title="BasePasiveAction.FinishAction method" Url="html/M-Assets.Scripts.Actions.BasePasiveAction.FinishAction.htm" />
+  <HelpKINode Title="BasePasiveAction.LookAtSomething method" Url="html/M-Assets.Scripts.Actions.BasePasiveAction.LookAtSomething.htm" />
+  <HelpKINode Title="BasePasiveAction.MakeAction method" Url="html/M-Assets.Scripts.Actions.BasePasiveAction.MakeAction.htm" />
+  <HelpKINode Title="BasePasiveAction.SelectAction method" Url="html/M-Assets.Scripts.Actions.BasePasiveAction.SelectAction.htm" />
+  <HelpKINode Title="BasePasiveAction.StartAction method" Url="html/M-Assets.Scripts.Actions.BasePasiveAction.StartAction.htm" />
+  <HelpKINode Title="BasePasiveAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.BasePasiveAction.WhereToLookAt.htm" />
+  <HelpKINode Title="BaseSimpleAction class">
+    <HelpKINode Title="BaseSimpleAction Class" Url="html/T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+    <HelpKINode Title="BaseSimpleAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+    <HelpKINode Title="about BaseSimpleAction class" Url="html/T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseSimpleAction.AssignSecondaryAction method" Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.AssignSecondaryAction.htm" />
+  <HelpKINode Title="BaseSimpleAction.ChangeSecondaryCharacterStatus method" Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.ChangeSecondaryCharacterStatus.htm" />
+  <HelpKINode Title="BaseSimpleAction.FinishAction method" Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.FinishAction.htm" />
+  <HelpKINode Title="BaseSimpleAction.IncrementQuantity property" Url="html/P-Assets.Scripts.Actions.BaseSimpleAction.IncrementQuantity.htm" />
+  <HelpKINode Title="BaseSimpleAction.LookAtSomething method" Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.LookAtSomething.htm" />
+  <HelpKINode Title="BaseSimpleAction.SelectAction method" Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.SelectAction.htm" />
+  <HelpKINode Title="BeHealedAction class">
+    <HelpKINode Title="BeHealedAction Class" Url="html/T-Assets.Scripts.Actions.BeHealedAction.htm" />
+    <HelpKINode Title="BeHealedAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BeHealedAction.htm" />
+    <HelpKINode Title="about BeHealedAction class" Url="html/T-Assets.Scripts.Actions.BeHealedAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.BeHealedAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.BeHealedAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.BeHealedAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BeHealedAction.ActionName property" Url="html/P-Assets.Scripts.Actions.BeHealedAction.ActionName.htm" />
+  <HelpKINode Title="BeHealedAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.BeHealedAction.DestinationName.htm" />
+  <HelpKINode Title="BeHealedAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.BeHealedAction.WhereToLookAt.htm" />
+  <HelpKINode Title="boatBuildPercentage field" Url="html/F-Assets.Scripts.Game.Inventory.boatBuildPercentage.htm" />
+  <HelpKINode Title="boatDamageInMesh field" Url="html/F-Assets.Scripts.Game.Constants.boatDamageInMesh.htm" />
+  <HelpKINode Title="boatFinished field" Url="html/F-Assets.Scripts.Game.Inventory.boatFinished.htm" />
+  <HelpKINode Title="borderColor field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.borderColor.htm" />
+  <HelpKINode Title="borderWidth field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.borderWidth.htm" />
+  <HelpKINode Title="BuildBoatAction class">
+    <HelpKINode Title="BuildBoatAction Class" Url="html/T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+    <HelpKINode Title="BuildBoatAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+    <HelpKINode Title="about BuildBoatAction class" Url="html/T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BuildBoatAction.ActionName property" Url="html/P-Assets.Scripts.Actions.BuildBoatAction.ActionName.htm" />
+  <HelpKINode Title="BuildBoatAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.BuildBoatAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="BuildBoatAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.BuildBoatAction.DestinationName.htm" />
+  <HelpKINode Title="BuildBoatAction.FinishAction method" Url="html/M-Assets.Scripts.Actions.BuildBoatAction.FinishAction.htm" />
+  <HelpKINode Title="BuildBoatAction.finishedBoat field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.finishedBoat.htm" />
+  <HelpKINode Title="BuildBoatAction.IncrementQuantity property" Url="html/P-Assets.Scripts.Actions.BuildBoatAction.IncrementQuantity.htm" />
+  <HelpKINode Title="BuildBoatAction.MakeAction method" Url="html/M-Assets.Scripts.Actions.BuildBoatAction.MakeAction.htm" />
+  <HelpKINode Title="BuildBoatAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.BuildBoatAction.MakeAMess.htm" />
+  <HelpKINode Title="BuildBoatAction.MessText property" Url="html/P-Assets.Scripts.Actions.BuildBoatAction.MessText.htm" />
+  <HelpKINode Title="BuildBoatAction.Start method" Url="html/M-Assets.Scripts.Actions.BuildBoatAction.Start.htm" />
+  <HelpKINode Title="BuildBoatAction.Win method" Url="html/M-Assets.Scripts.Actions.BuildBoatAction.Win.htm" />
+  <HelpKINode Title="BuildBoatAction.winPanel field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.winPanel.htm" />
+  <HelpKINode Title="BuildBoatAction.won field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.won.htm" />
+  <HelpKINode Title="buildBoatActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.buildBoatActionMessText.htm" />
+  <HelpKINode Title="buildBoatButtonActive field" Url="html/F-Assets.Scripts.Game.Inventory.buildBoatButtonActive.htm" />
+  <HelpKINode Title="buildingDamageEachTime field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageEachTime.htm" />
+  <HelpKINode Title="buildingDamageFrequency field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageFrequency.htm" />
+  <HelpKINode Title="buildingDamageInMesh field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageInMesh.htm" />
+  <HelpKINode Title="BuildRefugeAction class">
+    <HelpKINode Title="BuildRefugeAction Class" Url="html/T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+    <HelpKINode Title="BuildRefugeAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+    <HelpKINode Title="about BuildRefugeAction class" Url="html/T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BuildRefugeAction.ActionName property" Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.ActionName.htm" />
+  <HelpKINode Title="BuildRefugeAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="BuildRefugeAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.DestinationName.htm" />
+  <HelpKINode Title="BuildRefugeAction.FinishAction method" Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.FinishAction.htm" />
+  <HelpKINode Title="BuildRefugeAction.IncrementQuantity property" Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.IncrementQuantity.htm" />
+  <HelpKINode Title="BuildRefugeAction.MakeAction method" Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.MakeAction.htm" />
+  <HelpKINode Title="BuildRefugeAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.MakeAMess.htm" />
+  <HelpKINode Title="BuildRefugeAction.MessText property" Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.MessText.htm" />
+  <HelpKINode Title="buildRefugeActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.buildRefugeActionMessText.htm" />
+  <HelpKINode Title="button field" Url="html/F-Assets.Scripts.Actions.BaseDoubleAction.button.htm" />
+  <HelpKINode Title="cameraDirectionToRoot field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.cameraDirectionToRoot.htm" />
+  <HelpKINode Title="cameraDistance field" Url="html/F-global.idle_mocap_follow_player.cameraDistance.htm" />
+  <HelpKINode Title="CameraHandler class">
+    <HelpKINode Title="CameraHandler Class" Url="html/T-Assets.Scripts.Game.CameraHandler.htm" />
+    <HelpKINode Title="CameraHandler Members" Url="html/AllMembers.T-Assets.Scripts.Game.CameraHandler.htm" />
+    <HelpKINode Title="about CameraHandler class" Url="html/T-Assets.Scripts.Game.CameraHandler.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.CameraHandler.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Game.CameraHandler.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Game.CameraHandler.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraHandler.HandleEdgeScrolling method" Url="html/M-Assets.Scripts.Game.CameraHandler.HandleEdgeScrolling.htm" />
+  <HelpKINode Title="CameraHandler.HandleZoom method" Url="html/M-Assets.Scripts.Game.CameraHandler.HandleZoom.htm" />
+  <HelpKINode Title="CameraHandler.Update method" Url="html/M-Assets.Scripts.Game.CameraHandler.Update.htm" />
+  <HelpKINode Title="CameraHandler.zoom field" Url="html/F-Assets.Scripts.Game.CameraHandler.zoom.htm" />
+  <HelpKINode Title="cameraHeight field" Url="html/F-global.idle_mocap_follow_player.cameraHeight.htm" />
+  <HelpKINode Title="cameraRoot field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.cameraRoot.htm" />
+  <HelpKINode Title="cameraToLookAt field" Url="html/F-Assets.Scripts.UI.TextUI.cameraToLookAt.htm" />
+  <HelpKINode Title="cameraTransform field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.cameraTransform.htm" />
+  <HelpKINode Title="canBuildBoatText field" Url="html/F-Assets.Scripts.Game.Inventory.canBuildBoatText.htm" />
+  <HelpKINode Title="Center property" Url="html/P-Assets.Scripts.Utils.Utils.Center.htm" />
+  <HelpKINode Title="centerPosition field" Url="html/F-Assets.Scripts.Game.CharacterController.centerPosition.htm" />
+  <HelpKINode Title="ChangePanel method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.ChangePanel.htm" />
+  <HelpKINode Title="ChangeSecondaryCharacterStatus method">
+    <HelpKINode Title="ChangeSecondaryCharacterStatus Method " Url="html/M-Assets.Scripts.Actions.BaseAction.ChangeSecondaryCharacterStatus.htm" />
+    <HelpKINode Title="ChangeSecondaryCharacterStatus Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.ChangeSecondaryCharacterStatus.htm" />
+    <HelpKINode Title="ChangeSecondaryCharacterStatus Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.ChangeSecondaryCharacterStatus.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Character property" Url="html/P-Assets.Scripts.Game.CharacterAction.Character.htm" />
+  <HelpKINode Title="CharacterAction class">
+    <HelpKINode Title="CharacterAction Class" Url="html/T-Assets.Scripts.Game.CharacterAction.htm" />
+    <HelpKINode Title="CharacterAction Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterAction.htm" />
+    <HelpKINode Title="about CharacterAction class" Url="html/T-Assets.Scripts.Game.CharacterAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Game.CharacterAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CharacterAction.Action property" Url="html/P-Assets.Scripts.Game.CharacterAction.Action.htm" />
+  <HelpKINode Title="CharacterAction.Character property" Url="html/P-Assets.Scripts.Game.CharacterAction.Character.htm" />
+  <HelpKINode Title="CharacterAction.CharacterScript property" Url="html/P-Assets.Scripts.Game.CharacterAction.CharacterScript.htm" />
+  <HelpKINode Title="CharacterAction.LastSelected property" Url="html/P-Assets.Scripts.Game.CharacterAction.LastSelected.htm" />
+  <HelpKINode Title="CharacterAction.ObjectToGo property" Url="html/P-Assets.Scripts.Game.CharacterAction.ObjectToGo.htm" />
+  <HelpKINode Title="CharacterAction.SecondaryAction property" Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryAction.htm" />
+  <HelpKINode Title="CharacterAction.SecondaryCharacter property" Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryCharacter.htm" />
+  <HelpKINode Title="CharacterAction.SecondaryCharacterScript property" Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryCharacterScript.htm" />
+  <HelpKINode Title="CharacterAction.StartTime property" Url="html/P-Assets.Scripts.Game.CharacterAction.StartTime.htm" />
+  <HelpKINode Title="CharacterAction.Status property" Url="html/P-Assets.Scripts.Game.CharacterAction.Status.htm" />
+  <HelpKINode Title="CharacterActionsController class">
+    <HelpKINode Title="CharacterActionsController Class" Url="html/T-Assets.Scripts.Game.CharacterActionsController.htm" />
+    <HelpKINode Title="CharacterActionsController Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterActionsController.htm" />
+    <HelpKINode Title="about CharacterActionsController class" Url="html/T-Assets.Scripts.Game.CharacterActionsController.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterActionsController.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Game.CharacterActionsController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Game.CharacterActionsController.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CharacterActionsController.charActionPairs field" Url="html/F-Assets.Scripts.Game.CharacterActionsController.charActionPairs.htm" />
+  <HelpKINode Title="CharacterActionsController.FinishAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.FinishAction.htm" />
+  <HelpKINode Title="CharacterActionsController.GetCharacterActionOfCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetCharacterActionOfCharacter.htm" />
+  <HelpKINode Title="CharacterActionsController.GetCharacterActionOfSecondaryCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetCharacterActionOfSecondaryCharacter.htm" />
+  <HelpKINode Title="CharacterActionsController.GetLastSelectedCharacterAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetLastSelectedCharacterAction.htm" />
+  <HelpKINode Title="CharacterActionsController.GetLastWaitingAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetLastWaitingAction.htm" />
+  <HelpKINode Title="CharacterActionsController.GetNumberOfActiveCharacters method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetNumberOfActiveCharacters.htm" />
+  <HelpKINode Title="CharacterActionsController.GetNumberOfCharacters method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetNumberOfCharacters.htm" />
+  <HelpKINode Title="CharacterActionsController.GetPrimaryCharacterActionOfSecondaryCharacterAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetPrimaryCharacterActionOfSecondaryCharacterAction.htm" />
+  <HelpKINode Title="CharacterActionsController.IsThereAnyActiveCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.IsThereAnyActiveCharacter.htm" />
+  <HelpKINode Title="CharacterActionsController.SelectRandomCharacterAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.SelectRandomCharacterAction.htm" />
+  <HelpKINode Title="CharacterActionsController.UnselectLastCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.UnselectLastCharacter.htm" />
+  <HelpKINode Title="CharacterActionStatus enumeration" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="CharacterActionStatus.Dead field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.Dead.htm" />
+  <HelpKINode Title="CharacterActionStatus.DoingAction field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.DoingAction.htm" />
+  <HelpKINode Title="CharacterActionStatus.Free field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.Free.htm" />
+  <HelpKINode Title="CharacterActionStatus.MovingToActionLocation field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.MovingToActionLocation.htm" />
+  <HelpKINode Title="CharacterActionStatus.ReturningFromActionLocation field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.ReturningFromActionLocation.htm" />
+  <HelpKINode Title="CharacterActionStatus.WaitingForSecondaryCharacter field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.WaitingForSecondaryCharacter.htm" />
+  <HelpKINode Title="CharacterController class">
+    <HelpKINode Title="CharacterController Class" Url="html/T-Assets.Scripts.Game.CharacterController.htm" />
+    <HelpKINode Title="CharacterController Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterController.htm" />
+    <HelpKINode Title="about CharacterController class" Url="html/T-Assets.Scripts.Game.CharacterController.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterController.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Game.CharacterController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Game.CharacterController.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CharacterController.actionRemainingTime field" Url="html/F-Assets.Scripts.Game.CharacterController.actionRemainingTime.htm" />
+  <HelpKINode Title="CharacterController.animator field" Url="html/F-Assets.Scripts.Game.CharacterController.animator.htm" />
+  <HelpKINode Title="CharacterController.centerPosition field" Url="html/F-Assets.Scripts.Game.CharacterController.centerPosition.htm" />
+  <HelpKINode Title="CharacterController.characterName field" Url="html/F-Assets.Scripts.Game.CharacterController.characterName.htm" />
+  <HelpKINode Title="CharacterController.characterStats field" Url="html/F-Assets.Scripts.Game.CharacterController.characterStats.htm" />
+  <HelpKINode Title="CharacterController.characterStatsManager field" Url="html/F-Assets.Scripts.Game.CharacterController.characterStatsManager.htm" />
+  <HelpKINode Title="CharacterController.dead field" Url="html/F-Assets.Scripts.Game.CharacterController.dead.htm" />
+  <HelpKINode Title="CharacterController.deathTime field" Url="html/F-Assets.Scripts.Game.CharacterController.deathTime.htm" />
+  <HelpKINode Title="CharacterController.Die method" Url="html/M-Assets.Scripts.Game.CharacterController.Die.htm" />
+  <HelpKINode Title="CharacterController.free field" Url="html/F-Assets.Scripts.Game.CharacterController.free.htm" />
+  <HelpKINode Title="CharacterController.gender field" Url="html/F-Assets.Scripts.Game.CharacterController.gender.htm" />
+  <HelpKINode Title="CharacterController.GoToPosition method" Url="html/M-Assets.Scripts.Game.CharacterController.GoToPosition.htm" />
+  <HelpKINode Title="CharacterController.HideActionRemainingTime method" Url="html/M-Assets.Scripts.Game.CharacterController.HideActionRemainingTime.htm" />
+  <HelpKINode Title="CharacterController.isSelected field" Url="html/F-Assets.Scripts.Game.CharacterController.isSelected.htm" />
+  <HelpKINode Title="CharacterController.navMeshAgent field" Url="html/F-Assets.Scripts.Game.CharacterController.navMeshAgent.htm" />
+  <HelpKINode Title="CharacterController.OnCollisionEnter method" Url="html/M-Assets.Scripts.Game.CharacterController.OnCollisionEnter.htm" />
+  <HelpKINode Title="CharacterController.OnMouseDown method" Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseDown.htm" />
+  <HelpKINode Title="CharacterController.OnMouseExit method" Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseExit.htm" />
+  <HelpKINode Title="CharacterController.OnMouseOver method" Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseOver.htm" />
+  <HelpKINode Title="CharacterController.originalColor field" Url="html/F-Assets.Scripts.Game.CharacterController.originalColor.htm" />
+  <HelpKINode Title="CharacterController.originalPosition field" Url="html/F-Assets.Scripts.Game.CharacterController.originalPosition.htm" />
+  <HelpKINode Title="CharacterController.running field" Url="html/F-Assets.Scripts.Game.CharacterController.running.htm" />
+  <HelpKINode Title="CharacterController.ShowActionRemainingTime method" Url="html/M-Assets.Scripts.Game.CharacterController.ShowActionRemainingTime.htm" />
+  <HelpKINode Title="CharacterController.Start method" Url="html/M-Assets.Scripts.Game.CharacterController.Start.htm" />
+  <HelpKINode Title="CharacterController.Update method" Url="html/M-Assets.Scripts.Game.CharacterController.Update.htm" />
+  <HelpKINode Title="CharacterMovement property" Url="html/P-Assets.Scripts.Game.CharacterStats.CharacterMovement.htm" />
+  <HelpKINode Title="characterName field" Url="html/F-Assets.Scripts.Game.CharacterController.characterName.htm" />
+  <HelpKINode Title="characterRotationSpeed field" Url="html/F-Assets.Scripts.Game.Constants.characterRotationSpeed.htm" />
+  <HelpKINode Title="characters field" Url="html/F-Assets.Scripts.Game.Inventory.characters.htm" />
+  <HelpKINode Title="CharacterScript property" Url="html/P-Assets.Scripts.Game.CharacterAction.CharacterScript.htm" />
+  <HelpKINode Title="characterSpeed field" Url="html/F-Assets.Scripts.Game.Constants.characterSpeed.htm" />
+  <HelpKINode Title="CharacterStats class">
+    <HelpKINode Title="CharacterStats Class" Url="html/T-Assets.Scripts.Game.CharacterStats.htm" />
+    <HelpKINode Title="CharacterStats Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStats.htm" />
+    <HelpKINode Title="about CharacterStats class" Url="html/T-Assets.Scripts.Game.CharacterStats.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStats.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Game.CharacterStats.htm" />
+  </HelpKINode>
+  <HelpKINode Title="characterStats field" Url="html/F-Assets.Scripts.Game.CharacterController.characterStats.htm" />
+  <HelpKINode Title="CharacterStats.Action property" Url="html/P-Assets.Scripts.Game.CharacterStats.Action.htm" />
+  <HelpKINode Title="CharacterStats.Aptitude property" Url="html/P-Assets.Scripts.Game.CharacterStats.Aptitude.htm" />
+  <HelpKINode Title="CharacterStats.Attitude property" Url="html/P-Assets.Scripts.Game.CharacterStats.Attitude.htm" />
+  <HelpKINode Title="CharacterStats.CharacterMovement property" Url="html/P-Assets.Scripts.Game.CharacterStats.CharacterMovement.htm" />
+  <HelpKINode Title="CharacterStatsManager class">
+    <HelpKINode Title="CharacterStatsManager Class" Url="html/T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+    <HelpKINode Title="CharacterStatsManager Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+    <HelpKINode Title="about CharacterStatsManager class" Url="html/T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="characterStatsManager field" Url="html/F-Assets.Scripts.Game.CharacterController.characterStatsManager.htm" />
+  <HelpKINode Title="CharacterStatsManager.AssignRandomAttitudeAndAptitude method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.AssignRandomAttitudeAndAptitude.htm" />
+  <HelpKINode Title="CharacterStatsManager.GetActions method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetActions.htm" />
+  <HelpKINode Title="CharacterStatsManager.GetRandomAptitudeValue method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetRandomAptitudeValue.htm" />
+  <HelpKINode Title="CharacterStatsManager.GetRandomAttitudeValue method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetRandomAttitudeValue.htm" />
+  <HelpKINode Title="charAction field" Url="html/F-Assets.Scripts.Actions.BaseDoubleAction.charAction.htm" />
+  <HelpKINode Title="charActionPairs field" Url="html/F-Assets.Scripts.Game.CharacterActionsController.charActionPairs.htm" />
+  <HelpKINode Title="CheckInsideRanking method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.CheckInsideRanking.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="Constants Class" Url="html/T-Assets.Scripts.Game.Constants.htm" />
+    <HelpKINode Title="Constants Members" Url="html/AllMembers.T-Assets.Scripts.Game.Constants.htm" />
+    <HelpKINode Title="about Constants class" Url="html/T-Assets.Scripts.Game.Constants.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.Constants.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Game.Constants.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.boatDamageInMesh field" Url="html/F-Assets.Scripts.Game.Constants.boatDamageInMesh.htm" />
+  <HelpKINode Title="Constants.buildBoatActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.buildBoatActionMessText.htm" />
+  <HelpKINode Title="Constants.buildingDamageEachTime field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageEachTime.htm" />
+  <HelpKINode Title="Constants.buildingDamageFrequency field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageFrequency.htm" />
+  <HelpKINode Title="Constants.buildingDamageInMesh field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageInMesh.htm" />
+  <HelpKINode Title="Constants.buildRefugeActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.buildRefugeActionMessText.htm" />
+  <HelpKINode Title="Constants.characterRotationSpeed field" Url="html/F-Assets.Scripts.Game.Constants.characterRotationSpeed.htm" />
+  <HelpKINode Title="Constants.characterSpeed field" Url="html/F-Assets.Scripts.Game.Constants.characterSpeed.htm" />
+  <HelpKINode Title="Constants.dieText field" Url="html/F-Assets.Scripts.Game.Constants.dieText.htm" />
+  <HelpKINode Title="Constants.foodConsumptionFrequency field" Url="html/F-Assets.Scripts.Game.Constants.foodConsumptionFrequency.htm" />
+  <HelpKINode Title="Constants.foodConsumptionPerCharacter field" Url="html/F-Assets.Scripts.Game.Constants.foodConsumptionPerCharacter.htm" />
+  <HelpKINode Title="Constants.healActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.healActionMessText.htm" />
+  <HelpKINode Title="Constants.healthDecreaseInFoodMesh field" Url="html/F-Assets.Scripts.Game.Constants.healthDecreaseInFoodMesh.htm" />
+  <HelpKINode Title="Constants.hoursElapsedForSunstrokeDanger field" Url="html/F-Assets.Scripts.Game.Constants.hoursElapsedForSunstrokeDanger.htm" />
+  <HelpKINode Title="Constants.initialPoints field" Url="html/F-Assets.Scripts.Game.Constants.initialPoints.htm" />
+  <HelpKINode Title="Constants.lowAttitudeLimitAsTimePassing field" Url="html/F-Assets.Scripts.Game.Constants.lowAttitudeLimitAsTimePassing.htm" />
+  <HelpKINode Title="Constants.maxHealth field" Url="html/F-Assets.Scripts.Game.Constants.maxHealth.htm" />
+  <HelpKINode Title="Constants.maxZoom field" Url="html/F-Assets.Scripts.Game.Constants.maxZoom.htm" />
+  <HelpKINode Title="Constants.mDelta field" Url="html/F-Assets.Scripts.Game.Constants.mDelta.htm" />
+  <HelpKINode Title="Constants.millisecondsCharacterRemainsDead field" Url="html/F-Assets.Scripts.Game.Constants.millisecondsCharacterRemainsDead.htm" />
+  <HelpKINode Title="Constants.millisecondsInAnHour field" Url="html/F-Assets.Scripts.Game.Constants.millisecondsInAnHour.htm" />
+  <HelpKINode Title="Constants.minZoom field" Url="html/F-Assets.Scripts.Game.Constants.minZoom.htm" />
+  <HelpKINode Title="Constants.mSpeed field" Url="html/F-Assets.Scripts.Game.Constants.mSpeed.htm" />
+  <HelpKINode Title="Constants.neededResourcesToBuildBoat field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToBuildBoat.htm" />
+  <HelpKINode Title="Constants.neededResourcesToBuildRefuge field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToBuildRefuge.htm" />
+  <HelpKINode Title="Constants.neededResourcesToRepairRefuge field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToRepairRefuge.htm" />
+  <HelpKINode Title="Constants.pickFoodActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.pickFoodActionMessText.htm" />
+  <HelpKINode Title="Constants.pickResourcesActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.pickResourcesActionMessText.htm" />
+  <HelpKINode Title="Constants.pickResourcesActionTimeMultiplierInRest field" Url="html/F-Assets.Scripts.Game.Constants.pickResourcesActionTimeMultiplierInRest.htm" />
+  <HelpKINode Title="Constants.pickWaterActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.pickWaterActionMessText.htm" />
+  <HelpKINode Title="Constants.pointsDecreasePerDeadCharacter field" Url="html/F-Assets.Scripts.Game.Constants.pointsDecreasePerDeadCharacter.htm" />
+  <HelpKINode Title="Constants.pointsDecreasePerHour field" Url="html/F-Assets.Scripts.Game.Constants.pointsDecreasePerHour.htm" />
+  <HelpKINode Title="Constants.possibleDeathLimit field" Url="html/F-Assets.Scripts.Game.Constants.possibleDeathLimit.htm" />
+  <HelpKINode Title="Constants.pourWaterQuantity field" Url="html/F-Assets.Scripts.Game.Constants.pourWaterQuantity.htm" />
+  <HelpKINode Title="Constants.privateCode field" Url="html/F-Assets.Scripts.Game.Constants.privateCode.htm" />
+  <HelpKINode Title="Constants.psychologistTreatActionDowngradeText field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionDowngradeText.htm" />
+  <HelpKINode Title="Constants.psychologistTreatActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionMessText.htm" />
+  <HelpKINode Title="Constants.psychologistTreatActionUpgradeText field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionUpgradeText.htm" />
+  <HelpKINode Title="Constants.publicCode field" Url="html/F-Assets.Scripts.Game.Constants.publicCode.htm" />
+  <HelpKINode Title="Constants.sunHealthDamagePerHour field" Url="html/F-Assets.Scripts.Game.Constants.sunHealthDamagePerHour.htm" />
+  <HelpKINode Title="Constants.teachActionALittleBetterButBadText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionALittleBetterButBadText.htm" />
+  <HelpKINode Title="Constants.teachActionALittleBetterText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionALittleBetterText.htm" />
+  <HelpKINode Title="Constants.teachActionBadTeacherText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionBadTeacherText.htm" />
+  <HelpKINode Title="Constants.teachActionExpertText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionExpertText.htm" />
+  <HelpKINode Title="Constants.teachActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionMessText.htm" />
+  <HelpKINode Title="Constants.teachActionQuiteGoodText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionQuiteGoodText.htm" />
+  <HelpKINode Title="Constants.teachActionVeryGoodText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionVeryGoodText.htm" />
+  <HelpKINode Title="Constants.tooMuchSunText field" Url="html/F-Assets.Scripts.Game.Constants.tooMuchSunText.htm" />
+  <HelpKINode Title="Constants.waterConsumptionFrequency field" Url="html/F-Assets.Scripts.Game.Constants.waterConsumptionFrequency.htm" />
+  <HelpKINode Title="Constants.waterConsumptionPerCharacter field" Url="html/F-Assets.Scripts.Game.Constants.waterConsumptionPerCharacter.htm" />
+  <HelpKINode Title="Constants.webURL field" Url="html/F-Assets.Scripts.Game.Constants.webURL.htm" />
+  <HelpKINode Title="Constants.zoomChangeAmount field" Url="html/F-Assets.Scripts.Game.Constants.zoomChangeAmount.htm" />
+  <HelpKINode Title="ConsumeFood method" Url="html/M-Assets.Scripts.Game.Inventory.ConsumeFood.htm" />
+  <HelpKINode Title="ConsumeResources method" Url="html/M-Assets.Scripts.Game.Inventory.ConsumeResources.htm" />
+  <HelpKINode Title="ConsumeWater method" Url="html/M-Assets.Scripts.Game.Inventory.ConsumeWater.htm" />
+  <HelpKINode Title="CourseOfTime class">
+    <HelpKINode Title="CourseOfTime Class" Url="html/T-Assets.Scripts.Game.CourseOfTime.htm" />
+    <HelpKINode Title="CourseOfTime Members" Url="html/AllMembers.T-Assets.Scripts.Game.CourseOfTime.htm" />
+    <HelpKINode Title="about CourseOfTime class" Url="html/T-Assets.Scripts.Game.CourseOfTime.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.CourseOfTime.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Game.CourseOfTime.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Game.CourseOfTime.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CourseOfTime.DecreaseMotivation method" Url="html/M-Assets.Scripts.Game.CourseOfTime.DecreaseMotivation.htm" />
+  <HelpKINode Title="CourseOfTime.elapsedDays field" Url="html/F-Assets.Scripts.Game.CourseOfTime.elapsedDays.htm" />
+  <HelpKINode Title="CourseOfTime.elapsedHours field" Url="html/F-Assets.Scripts.Game.CourseOfTime.elapsedHours.htm" />
+  <HelpKINode Title="CourseOfTime.gameOverPanel field" Url="html/F-Assets.Scripts.Game.CourseOfTime.gameOverPanel.htm" />
+  <HelpKINode Title="CourseOfTime.IncrementDay method" Url="html/M-Assets.Scripts.Game.CourseOfTime.IncrementDay.htm" />
+  <HelpKINode Title="CourseOfTime.IncrementHour method" Url="html/M-Assets.Scripts.Game.CourseOfTime.IncrementHour.htm" />
+  <HelpKINode Title="CourseOfTime.PossibleDeath method" Url="html/M-Assets.Scripts.Game.CourseOfTime.PossibleDeath.htm" />
+  <HelpKINode Title="CourseOfTime.Start method" Url="html/M-Assets.Scripts.Game.CourseOfTime.Start.htm" />
+  <HelpKINode Title="CourseOfTime.startTime field" Url="html/F-Assets.Scripts.Game.CourseOfTime.startTime.htm" />
+  <HelpKINode Title="CourseOfTime.Update method" Url="html/M-Assets.Scripts.Game.CourseOfTime.Update.htm" />
+  <HelpKINode Title="CreateMeshLowPoly method" Url="html/M-LowPolyWater.LowPolyWater.CreateMeshLowPoly.htm" />
+  <HelpKINode Title="currentScrollSpeed field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.currentScrollSpeed.htm" />
+  <HelpKINode Title="currentValue field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.currentValue.htm" />
+  <HelpKINode Title="DamageBoat method" Url="html/M-Assets.Scripts.Game.Inventory.DamageBoat.htm" />
+  <HelpKINode Title="DamageBuilding method" Url="html/M-Assets.Scripts.Game.Inventory.DamageBuilding.htm" />
+  <HelpKINode Title="DamageHealth method" Url="html/M-Assets.Scripts.Game.Inventory.DamageHealth.htm" />
+  <HelpKINode Title="DataSize field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.DataSize.htm" />
+  <HelpKINode Title="Dead enumeration member" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="Dead field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.Dead.htm" />
+  <HelpKINode Title="dead field" Url="html/F-Assets.Scripts.Game.CharacterController.dead.htm" />
+  <HelpKINode Title="deathTime field" Url="html/F-Assets.Scripts.Game.CharacterController.deathTime.htm" />
+  <HelpKINode Title="DecreaseHealth method" Url="html/M-Assets.Scripts.Game.Inventory.DecreaseHealth.htm" />
+  <HelpKINode Title="DecreaseMotivation method" Url="html/M-Assets.Scripts.Game.CourseOfTime.DecreaseMotivation.htm" />
+  <HelpKINode Title="defaulPropertyBlock field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.defaulPropertyBlock.htm" />
+  <HelpKINode Title="deltaTimeData field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.deltaTimeData.htm" />
+  <HelpKINode Title="DestinationName property">
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.HealAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BaseAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.LearnAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.Action.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.RestAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BeHealedAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.DestinationName.htm" />
+    <HelpKINode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.TeachAction.DestinationName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="destinations field">
+    <HelpKINode Title="destinations Field" Url="html/F-Assets.Scripts.Actions.RestAction.destinations.htm" />
+    <HelpKINode Title="destinations Field" Url="html/F-Assets.Scripts.Actions.PickFoodAction.destinations.htm" />
+    <HelpKINode Title="destinations Field" Url="html/F-Assets.Scripts.Actions.PickResourcesAction.destinations.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Die method" Url="html/M-Assets.Scripts.Game.CharacterController.Die.htm" />
+  <HelpKINode Title="dieText field" Url="html/F-Assets.Scripts.Game.Constants.dieText.htm" />
+  <HelpKINode Title="diffuseMaterial field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.diffuseMaterial.htm" />
+  <HelpKINode Title="distortionTex field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.distortionTex.htm" />
+  <HelpKINode Title="distortionTile field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.distortionTile.htm" />
+  <HelpKINode Title="DoingAction enumeration member" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="DoingAction field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.DoingAction.htm" />
+  <HelpKINode Title="DontDestroyAudio class">
+    <HelpKINode Title="DontDestroyAudio Class" Url="html/T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+    <HelpKINode Title="DontDestroyAudio Members" Url="html/AllMembers.T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+    <HelpKINode Title="about DontDestroyAudio class" Url="html/T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DontDestroyAudio.Awake method" Url="html/M-Assets.Scripts.Game.DontDestroyAudio.Awake.htm" />
+  <HelpKINode Title="DownloadHighscores method" Url="html/M-Assets.Scripts.Highscores.Highscores.DownloadHighscores.htm" />
+  <HelpKINode Title="DownloadHighscoresFromDatabase method" Url="html/M-Assets.Scripts.Highscores.Highscores.DownloadHighscoresFromDatabase.htm" />
+  <HelpKINode Title="elapsedDays field" Url="html/F-Assets.Scripts.Game.CourseOfTime.elapsedDays.htm" />
+  <HelpKINode Title="elapsedHours field" Url="html/F-Assets.Scripts.Game.CourseOfTime.elapsedHours.htm" />
+  <HelpKINode Title="Female enumeration member" Url="html/T-Assets.Scripts.Utils.Gender.htm" />
+  <HelpKINode Title="Female field" Url="html/F-Assets.Scripts.Utils.Gender.Female.htm" />
+  <HelpKINode Title="FemaleNames property" Url="html/P-Assets.Scripts.Utils.Utils.FemaleNames.htm" />
+  <HelpKINode Title="fill field" Url="html/F-Assets.Scripts.Game.Inventory.fill.htm" />
+  <HelpKINode Title="FinishAction method">
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.FinishAction.htm" />
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.FinishAction.htm" />
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.FinishAction.htm" />
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.FinishAction.htm" />
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.FinishAction.htm" />
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.FinishAction.htm" />
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.FinishAction.htm" />
+    <HelpKINode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.Action.FinishAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="finishedBoat field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.finishedBoat.htm" />
+  <HelpKINode Title="FinishSpecificAction method">
+    <HelpKINode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.TeachAction.FinishSpecificAction.htm" />
+    <HelpKINode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.HealAction.FinishSpecificAction.htm" />
+    <HelpKINode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.PsychologistTreatAction.FinishSpecificAction.htm" />
+    <HelpKINode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.FinishSpecificAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="foodConsumptionFrequency field" Url="html/F-Assets.Scripts.Game.Constants.foodConsumptionFrequency.htm" />
+  <HelpKINode Title="foodConsumptionPerCharacter field" Url="html/F-Assets.Scripts.Game.Constants.foodConsumptionPerCharacter.htm" />
+  <HelpKINode Title="foodUnits field" Url="html/F-Assets.Scripts.Game.Inventory.foodUnits.htm" />
+  <HelpKINode Title="FormatHighscores method" Url="html/M-Assets.Scripts.Highscores.Highscores.FormatHighscores.htm" />
+  <HelpKINode Title="Fps property" Url="html/P-Assets.Scripts.Helpers.FPSCounter.Fps.htm" />
+  <HelpKINode Title="fpsCounter field" Url="html/F-Assets.MobileOptimizedWater.Scripts.FPSUI.fpsCounter.htm" />
+  <HelpKINode Title="fpsData field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.fpsData.htm" />
+  <HelpKINode Title="fpsText field" Url="html/F-Assets.MobileOptimizedWater.Scripts.FPSUI.fpsText.htm" />
+  <HelpKINode Title="Free enumeration member" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="Free field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.Free.htm" />
+  <HelpKINode Title="free field" Url="html/F-Assets.Scripts.Game.CharacterController.free.htm" />
+  <HelpKINode Title="Frequency field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.Frequency.htm" />
+  <HelpKINode Title="gameIsPaused field" Url="html/F-Assets.Scripts.UI.PauseMenu.gameIsPaused.htm" />
+  <HelpKINode Title="gameObjectWithRectTransform field" Url="html/F-Assets.Scripts.UI.TutorialRectTransformSlider.gameObjectWithRectTransform.htm" />
+  <HelpKINode Title="gameOverPanel field" Url="html/F-Assets.Scripts.Game.CourseOfTime.gameOverPanel.htm" />
+  <HelpKINode Title="Gender enumeration" Url="html/T-Assets.Scripts.Utils.Gender.htm" />
+  <HelpKINode Title="gender field" Url="html/F-Assets.Scripts.Game.CharacterController.gender.htm" />
+  <HelpKINode Title="Gender.Female field" Url="html/F-Assets.Scripts.Utils.Gender.Female.htm" />
+  <HelpKINode Title="Gender.Male field" Url="html/F-Assets.Scripts.Utils.Gender.Male.htm" />
+  <HelpKINode Title="GenerateWaves method" Url="html/M-LowPolyWater.LowPolyWater.GenerateWaves.htm" />
+  <HelpKINode Title="GetActions method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetActions.htm" />
+  <HelpKINode Title="GetAverageFps method" Url="html/M-Assets.Scripts.Helpers.FPSCounter.GetAverageFps.htm" />
+  <HelpKINode Title="GetCenteredPositions method" Url="html/M-Assets.Scripts.Utils.Utils.GetCenteredPositions.htm" />
+  <HelpKINode Title="GetCharacterActionOfCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetCharacterActionOfCharacter.htm" />
+  <HelpKINode Title="GetCharacterActionOfSecondaryCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetCharacterActionOfSecondaryCharacter.htm" />
+  <HelpKINode Title="GetHealth method" Url="html/M-Assets.Scripts.Game.Inventory.GetHealth.htm" />
+  <HelpKINode Title="GetHighscores method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.GetHighscores.htm" />
+  <HelpKINode Title="GetLastScoreInLeaderboard method" Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.GetLastScoreInLeaderboard.htm" />
+  <HelpKINode Title="GetLastSelectedCharacterAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetLastSelectedCharacterAction.htm" />
+  <HelpKINode Title="GetLastWaitingAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetLastWaitingAction.htm" />
+  <HelpKINode Title="GetNumberOfActiveCharacters method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetNumberOfActiveCharacters.htm" />
+  <HelpKINode Title="GetNumberOfCharacters method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetNumberOfCharacters.htm" />
+  <HelpKINode Title="GetPrimaryCharacterActionOfSecondaryCharacterAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetPrimaryCharacterActionOfSecondaryCharacterAction.htm" />
+  <HelpKINode Title="GetRandomAptitudeValue method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetRandomAptitudeValue.htm" />
+  <HelpKINode Title="GetRandomAttitudeValue method" Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetRandomAttitudeValue.htm" />
+  <HelpKINode Title="GetRandomCenteredPosition method" Url="html/M-Assets.Scripts.Utils.Utils.GetRandomCenteredPosition.htm" />
+  <HelpKINode Title="GetRandomDestination method">
+    <HelpKINode Title="GetRandomDestination Method " Url="html/M-Assets.Scripts.Actions.PickFoodAction.GetRandomDestination.htm" />
+    <HelpKINode Title="GetRandomDestination Method " Url="html/M-Assets.Scripts.Actions.RestAction.GetRandomDestination.htm" />
+    <HelpKINode Title="GetRandomDestination Method " Url="html/M-Assets.Scripts.Actions.PickResourcesAction.GetRandomDestination.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetRandomName method" Url="html/M-Assets.Scripts.Utils.Utils.GetRandomName.htm" />
+  <HelpKINode Title="GoRest method" Url="html/M-Assets.Scripts.Actions.PickResourcesAction.GoRest.htm" />
+  <HelpKINode Title="GoToPosition method" Url="html/M-Assets.Scripts.Game.CharacterController.GoToPosition.htm" />
+  <HelpKINode Title="HandleEdgeScrolling method" Url="html/M-Assets.Scripts.Game.CameraHandler.HandleEdgeScrolling.htm" />
+  <HelpKINode Title="HandleZoom method" Url="html/M-Assets.Scripts.Game.CameraHandler.HandleZoom.htm" />
+  <HelpKINode Title="HaveSunstroke method" Url="html/M-Assets.Scripts.Game.Inventory.HaveSunstroke.htm" />
+  <HelpKINode Title="Heal method" Url="html/M-Assets.Scripts.Game.Inventory.Heal.htm" />
+  <HelpKINode Title="HealAction class">
+    <HelpKINode Title="HealAction Class" Url="html/T-Assets.Scripts.Actions.HealAction.htm" />
+    <HelpKINode Title="HealAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.HealAction.htm" />
+    <HelpKINode Title="about HealAction class" Url="html/T-Assets.Scripts.Actions.HealAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.HealAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.HealAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.HealAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HealAction.ActionName property" Url="html/P-Assets.Scripts.Actions.HealAction.ActionName.htm" />
+  <HelpKINode Title="HealAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.HealAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="HealAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.HealAction.DestinationName.htm" />
+  <HelpKINode Title="HealAction.FinishSpecificAction method" Url="html/M-Assets.Scripts.Actions.HealAction.FinishSpecificAction.htm" />
+  <HelpKINode Title="HealAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.HealAction.MakeAMess.htm" />
+  <HelpKINode Title="HealAction.MessText property" Url="html/P-Assets.Scripts.Actions.HealAction.MessText.htm" />
+  <HelpKINode Title="HealAction.SecondaryAction property" Url="html/P-Assets.Scripts.Actions.HealAction.SecondaryAction.htm" />
+  <HelpKINode Title="HealAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.HealAction.WhereToLookAt.htm" />
+  <HelpKINode Title="healActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.healActionMessText.htm" />
+  <HelpKINode Title="healthDecreaseInFoodMesh field" Url="html/F-Assets.Scripts.Game.Constants.healthDecreaseInFoodMesh.htm" />
+  <HelpKINode Title="healthPoints field" Url="html/F-Assets.Scripts.Game.Inventory.healthPoints.htm" />
+  <HelpKINode Title="HideActionRemainingTime method" Url="html/M-Assets.Scripts.Game.CharacterController.HideActionRemainingTime.htm" />
+  <HelpKINode Title="HideMessage method" Url="html/M-Assets.Scripts.UI.PopupManager.HideMessage.htm" />
+  <HelpKINode Title="Highscore structure">
+    <HelpKINode Title="Highscore Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscore.htm" />
+    <HelpKINode Title="Highscore Structure" Url="html/T-Assets.Scripts.Highscores.Highscore.htm" />
+    <HelpKINode Title="about Highscore structure" Url="html/T-Assets.Scripts.Highscores.Highscore.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscore.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Assets.Scripts.Highscores.Highscore.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Highscores.Highscore.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Highscore.Highscore constructor" Url="html/M-Assets.Scripts.Highscores.Highscore.-ctor.htm" />
+  <HelpKINode Title="Highscore.score field" Url="html/F-Assets.Scripts.Highscores.Highscore.score.htm" />
+  <HelpKINode Title="Highscore.username field" Url="html/F-Assets.Scripts.Highscores.Highscore.username.htm" />
+  <HelpKINode Title="highscoreDisplay field" Url="html/F-Assets.Scripts.Highscores.Highscores.highscoreDisplay.htm" />
+  <HelpKINode Title="highscoreFields field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.highscoreFields.htm" />
+  <HelpKINode Title="Highscores class">
+    <HelpKINode Title="Highscores Class" Url="html/T-Assets.Scripts.Highscores.Highscores.htm" />
+    <HelpKINode Title="Highscores Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscores.htm" />
+    <HelpKINode Title="about Highscores class" Url="html/T-Assets.Scripts.Highscores.Highscores.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscores.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Highscores.Highscores.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Highscores.Highscores.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Highscores.AddNewHighscore method" Url="html/M-Assets.Scripts.Highscores.Highscores.AddNewHighscore.htm" />
+  <HelpKINode Title="Highscores.Awake method" Url="html/M-Assets.Scripts.Highscores.Highscores.Awake.htm" />
+  <HelpKINode Title="Highscores.DownloadHighscores method" Url="html/M-Assets.Scripts.Highscores.Highscores.DownloadHighscores.htm" />
+  <HelpKINode Title="Highscores.DownloadHighscoresFromDatabase method" Url="html/M-Assets.Scripts.Highscores.Highscores.DownloadHighscoresFromDatabase.htm" />
+  <HelpKINode Title="Highscores.FormatHighscores method" Url="html/M-Assets.Scripts.Highscores.Highscores.FormatHighscores.htm" />
+  <HelpKINode Title="Highscores.highscoreDisplay field" Url="html/F-Assets.Scripts.Highscores.Highscores.highscoreDisplay.htm" />
+  <HelpKINode Title="Highscores.highscoresList field" Url="html/F-Assets.Scripts.Highscores.Highscores.highscoresList.htm" />
+  <HelpKINode Title="Highscores.instance field" Url="html/F-Assets.Scripts.Highscores.Highscores.instance.htm" />
+  <HelpKINode Title="Highscores.UploadNewHighscore method" Url="html/M-Assets.Scripts.Highscores.Highscores.UploadNewHighscore.htm" />
+  <HelpKINode Title="HighscoresDisplay class">
+    <HelpKINode Title="HighscoresDisplay Class" Url="html/T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+    <HelpKINode Title="HighscoresDisplay Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+    <HelpKINode Title="about HighscoresDisplay class" Url="html/T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+  </HelpKINode>
+  <HelpKINode Title="highscoresDisplay field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.highscoresDisplay.htm" />
+  <HelpKINode Title="HighscoresDisplay.GetLastScoreInLeaderboard method" Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.GetLastScoreInLeaderboard.htm" />
+  <HelpKINode Title="HighscoresDisplay.highscoreFields field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.highscoreFields.htm" />
+  <HelpKINode Title="HighscoresDisplay.highscoresManager field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.highscoresManager.htm" />
+  <HelpKINode Title="HighscoresDisplay.lastHighscoreInLeaderboard field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.lastHighscoreInLeaderboard.htm" />
+  <HelpKINode Title="HighscoresDisplay.OnHighscoresDownloaded method" Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.OnHighscoresDownloaded.htm" />
+  <HelpKINode Title="HighscoresDisplay.RefreshHighscores method" Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.RefreshHighscores.htm" />
+  <HelpKINode Title="HighscoresDisplay.Start method" Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.Start.htm" />
+  <HelpKINode Title="highscoresList field" Url="html/F-Assets.Scripts.Highscores.Highscores.highscoresList.htm" />
+  <HelpKINode Title="HighscoresManager class">
+    <HelpKINode Title="HighscoresManager Class" Url="html/T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+    <HelpKINode Title="HighscoresManager Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+    <HelpKINode Title="about HighscoresManager class" Url="html/T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="highscoresManager field">
+    <HelpKINode Title="highscoresManager Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.highscoresManager.htm" />
+    <HelpKINode Title="highscoresManager Field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.highscoresManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HighscoresManager.AddHighscore method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.AddHighscore.htm" />
+  <HelpKINode Title="HighscoresManager.ChangePanel method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.ChangePanel.htm" />
+  <HelpKINode Title="HighscoresManager.CheckInsideRanking method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.CheckInsideRanking.htm" />
+  <HelpKINode Title="HighscoresManager.GetHighscores method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.GetHighscores.htm" />
+  <HelpKINode Title="HighscoresManager.highscoresDisplay field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.highscoresDisplay.htm" />
+  <HelpKINode Title="HighscoresManager.highscoresManager field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.highscoresManager.htm" />
+  <HelpKINode Title="HighscoresManager.insideRankingPanel field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.insideRankingPanel.htm" />
+  <HelpKINode Title="HighscoresManager.insideRankingScoreObject field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.insideRankingScoreObject.htm" />
+  <HelpKINode Title="HighscoresManager.outsideRankingPanel field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.outsideRankingPanel.htm" />
+  <HelpKINode Title="HighscoresManager.outsideRankingScoreObject field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.outsideRankingScoreObject.htm" />
+  <HelpKINode Title="HighscoresManager.playerName field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.playerName.htm" />
+  <HelpKINode Title="HighscoresManager.score field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.score.htm" />
+  <HelpKINode Title="HighscoresManager.Start method" Url="html/M-Assets.Scripts.Highscores.HighscoresManager.Start.htm" />
+  <HelpKINode Title="hoursElapsedForSunstrokeDanger field" Url="html/F-Assets.Scripts.Game.Constants.hoursElapsedForSunstrokeDanger.htm" />
+  <HelpKINode Title="Increment method" Url="html/M-Assets.Scripts.Game.Inventory.Increment.htm" />
+  <HelpKINode Title="IncrementDay method" Url="html/M-Assets.Scripts.Game.CourseOfTime.IncrementDay.htm" />
+  <HelpKINode Title="IncrementHour method" Url="html/M-Assets.Scripts.Game.CourseOfTime.IncrementHour.htm" />
+  <HelpKINode Title="IncrementQuantity property">
+    <HelpKINode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.BaseSimpleAction.IncrementQuantity.htm" />
+    <HelpKINode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.IncrementQuantity.htm" />
+    <HelpKINode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.IncrementQuantity.htm" />
+    <HelpKINode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.IncrementQuantity.htm" />
+    <HelpKINode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.IncrementQuantity.htm" />
+    <HelpKINode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.IncrementQuantity.htm" />
+  </HelpKINode>
+  <HelpKINode Title="index field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.index.htm" />
+  <HelpKINode Title="initialPoints field" Url="html/F-Assets.Scripts.Game.Constants.initialPoints.htm" />
+  <HelpKINode Title="insideRankingPanel field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.insideRankingPanel.htm" />
+  <HelpKINode Title="insideRankingScoreObject field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.insideRankingScoreObject.htm" />
+  <HelpKINode Title="instance field" Url="html/F-Assets.Scripts.Highscores.Highscores.instance.htm" />
+  <HelpKINode Title="Instance property" Url="html/P-Assets.Scripts.Utils.StaticRandom.Instance.htm" />
+  <HelpKINode Title="Inventory class">
+    <HelpKINode Title="Inventory Class" Url="html/T-Assets.Scripts.Game.Inventory.htm" />
+    <HelpKINode Title="Inventory Members" Url="html/AllMembers.T-Assets.Scripts.Game.Inventory.htm" />
+    <HelpKINode Title="about Inventory class" Url="html/T-Assets.Scripts.Game.Inventory.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Game.Inventory.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Game.Inventory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Game.Inventory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Inventory.ActivateBuildBoatButton method" Url="html/M-Assets.Scripts.Game.Inventory.ActivateBuildBoatButton.htm" />
+  <HelpKINode Title="Inventory.boatBuildPercentage field" Url="html/F-Assets.Scripts.Game.Inventory.boatBuildPercentage.htm" />
+  <HelpKINode Title="Inventory.boatFinished field" Url="html/F-Assets.Scripts.Game.Inventory.boatFinished.htm" />
+  <HelpKINode Title="Inventory.buildBoatButtonActive field" Url="html/F-Assets.Scripts.Game.Inventory.buildBoatButtonActive.htm" />
+  <HelpKINode Title="Inventory.canBuildBoatText field" Url="html/F-Assets.Scripts.Game.Inventory.canBuildBoatText.htm" />
+  <HelpKINode Title="Inventory.characters field" Url="html/F-Assets.Scripts.Game.Inventory.characters.htm" />
+  <HelpKINode Title="Inventory.ConsumeFood method" Url="html/M-Assets.Scripts.Game.Inventory.ConsumeFood.htm" />
+  <HelpKINode Title="Inventory.ConsumeResources method" Url="html/M-Assets.Scripts.Game.Inventory.ConsumeResources.htm" />
+  <HelpKINode Title="Inventory.ConsumeWater method" Url="html/M-Assets.Scripts.Game.Inventory.ConsumeWater.htm" />
+  <HelpKINode Title="Inventory.DamageBoat method" Url="html/M-Assets.Scripts.Game.Inventory.DamageBoat.htm" />
+  <HelpKINode Title="Inventory.DamageBuilding method" Url="html/M-Assets.Scripts.Game.Inventory.DamageBuilding.htm" />
+  <HelpKINode Title="Inventory.DamageHealth method" Url="html/M-Assets.Scripts.Game.Inventory.DamageHealth.htm" />
+  <HelpKINode Title="Inventory.DecreaseHealth method" Url="html/M-Assets.Scripts.Game.Inventory.DecreaseHealth.htm" />
+  <HelpKINode Title="Inventory.fill field" Url="html/F-Assets.Scripts.Game.Inventory.fill.htm" />
+  <HelpKINode Title="Inventory.foodUnits field" Url="html/F-Assets.Scripts.Game.Inventory.foodUnits.htm" />
+  <HelpKINode Title="Inventory.GetHealth method" Url="html/M-Assets.Scripts.Game.Inventory.GetHealth.htm" />
+  <HelpKINode Title="Inventory.HaveSunstroke method" Url="html/M-Assets.Scripts.Game.Inventory.HaveSunstroke.htm" />
+  <HelpKINode Title="Inventory.Heal method" Url="html/M-Assets.Scripts.Game.Inventory.Heal.htm" />
+  <HelpKINode Title="Inventory.healthPoints field" Url="html/F-Assets.Scripts.Game.Inventory.healthPoints.htm" />
+  <HelpKINode Title="Inventory.Increment method" Url="html/M-Assets.Scripts.Game.Inventory.Increment.htm" />
+  <HelpKINode Title="Inventory.numberOfActiveCharacters field" Url="html/F-Assets.Scripts.Game.Inventory.numberOfActiveCharacters.htm" />
+  <HelpKINode Title="Inventory.PeriodicBuildingDamage method" Url="html/M-Assets.Scripts.Game.Inventory.PeriodicBuildingDamage.htm" />
+  <HelpKINode Title="Inventory.PourWater method" Url="html/M-Assets.Scripts.Game.Inventory.PourWater.htm" />
+  <HelpKINode Title="Inventory.refugeBuildPercentage field" Url="html/F-Assets.Scripts.Game.Inventory.refugeBuildPercentage.htm" />
+  <HelpKINode Title="Inventory.refugeFinished field" Url="html/F-Assets.Scripts.Game.Inventory.refugeFinished.htm" />
+  <HelpKINode Title="Inventory.resourcesUnits field" Url="html/F-Assets.Scripts.Game.Inventory.resourcesUnits.htm" />
+  <HelpKINode Title="Inventory.SetHealth method" Url="html/M-Assets.Scripts.Game.Inventory.SetHealth.htm" />
+  <HelpKINode Title="Inventory.SetMaxHealth method" Url="html/M-Assets.Scripts.Game.Inventory.SetMaxHealth.htm" />
+  <HelpKINode Title="Inventory.slider field" Url="html/F-Assets.Scripts.Game.Inventory.slider.htm" />
+  <HelpKINode Title="Inventory.Start method" Url="html/M-Assets.Scripts.Game.Inventory.Start.htm" />
+  <HelpKINode Title="Inventory.TakeToxicFood method" Url="html/M-Assets.Scripts.Game.Inventory.TakeToxicFood.htm" />
+  <HelpKINode Title="Inventory.TearDownBoat method" Url="html/M-Assets.Scripts.Game.Inventory.TearDownBoat.htm" />
+  <HelpKINode Title="Inventory.TearDownRefuge method" Url="html/M-Assets.Scripts.Game.Inventory.TearDownRefuge.htm" />
+  <HelpKINode Title="Inventory.Update method" Url="html/M-Assets.Scripts.Game.Inventory.Update.htm" />
+  <HelpKINode Title="Inventory.waterUnits field" Url="html/F-Assets.Scripts.Game.Inventory.waterUnits.htm" />
+  <HelpKINode Title="isSelected field" Url="html/F-Assets.Scripts.Game.CharacterController.isSelected.htm" />
+  <HelpKINode Title="IsThereAnyActiveCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.IsThereAnyActiveCharacter.htm" />
+  <HelpKINode Title="lastFrameCount field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.lastFrameCount.htm" />
+  <HelpKINode Title="lastHighscoreInLeaderboard field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.lastHighscoreInLeaderboard.htm" />
+  <HelpKINode Title="LastSelected property" Url="html/P-Assets.Scripts.Game.CharacterAction.LastSelected.htm" />
+  <HelpKINode Title="lastTime field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.lastTime.htm" />
+  <HelpKINode Title="LearnAction class">
+    <HelpKINode Title="LearnAction Class" Url="html/T-Assets.Scripts.Actions.LearnAction.htm" />
+    <HelpKINode Title="LearnAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.LearnAction.htm" />
+    <HelpKINode Title="about LearnAction class" Url="html/T-Assets.Scripts.Actions.LearnAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.LearnAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.LearnAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.LearnAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LearnAction.ActionName property" Url="html/P-Assets.Scripts.Actions.LearnAction.ActionName.htm" />
+  <HelpKINode Title="LearnAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.LearnAction.DestinationName.htm" />
+  <HelpKINode Title="LearnAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.LearnAction.WhereToLookAt.htm" />
+  <HelpKINode Title="LoadMainMenu method" Url="html/M-Assets.Scripts.UI.PauseMenu.LoadMainMenu.htm" />
+  <HelpKINode Title="LookAtSomething method">
+    <HelpKINode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BaseAction.LookAtSomething.htm" />
+    <HelpKINode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.LookAtSomething.htm" />
+    <HelpKINode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.LookAtSomething.htm" />
+    <HelpKINode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.LookAtSomething.htm" />
+  </HelpKINode>
+  <HelpKINode Title="lowAttitudeLimitAsTimePassing field" Url="html/F-Assets.Scripts.Game.Constants.lowAttitudeLimitAsTimePassing.htm" />
+  <HelpKINode Title="MainMenu class">
+    <HelpKINode Title="MainMenu Class" Url="html/T-Assets.Scripts.UI.MainMenu.htm" />
+    <HelpKINode Title="MainMenu Members" Url="html/AllMembers.T-Assets.Scripts.UI.MainMenu.htm" />
+    <HelpKINode Title="about MainMenu class" Url="html/T-Assets.Scripts.UI.MainMenu.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.UI.MainMenu.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.UI.MainMenu.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainMenu.PlayGame method" Url="html/M-Assets.Scripts.UI.MainMenu.PlayGame.htm" />
+  <HelpKINode Title="MainMenu.QuitGame method" Url="html/M-Assets.Scripts.UI.MainMenu.QuitGame.htm" />
+  <HelpKINode Title="MakeAction method">
+    <HelpKINode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.MakeAction.htm" />
+    <HelpKINode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.MakeAction.htm" />
+    <HelpKINode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.MakeAction.htm" />
+    <HelpKINode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.MakeAction.htm" />
+    <HelpKINode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.Action.MakeAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MakeAMess method">
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.HealAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.BaseAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PickFoodAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.TeachAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PickResourcesAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PickWaterAction.MakeAMess.htm" />
+    <HelpKINode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PsychologistTreatAction.MakeAMess.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MakesAction method" Url="html/M-Assets.Scripts.Actions.BaseAction.MakesAction.htm" />
+  <HelpKINode Title="Male enumeration member" Url="html/T-Assets.Scripts.Utils.Gender.htm" />
+  <HelpKINode Title="Male field" Url="html/F-Assets.Scripts.Utils.Gender.Male.htm" />
+  <HelpKINode Title="MaleNames property" Url="html/P-Assets.Scripts.Utils.Utils.MaleNames.htm" />
+  <HelpKINode Title="materialPropertyBlock field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.materialPropertyBlock.htm" />
+  <HelpKINode Title="MaterialPropertyBlock property" Url="html/P-Assets.Scripts.Water.WaterPropertyBlockSetter.MaterialPropertyBlock.htm" />
+  <HelpKINode Title="maxDistance field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.maxDistance.htm" />
+  <HelpKINode Title="maxHealth field" Url="html/F-Assets.Scripts.Game.Constants.maxHealth.htm" />
+  <HelpKINode Title="maxZoom field" Url="html/F-Assets.Scripts.Game.Constants.maxZoom.htm" />
+  <HelpKINode Title="mDelta field" Url="html/F-Assets.Scripts.Game.Constants.mDelta.htm" />
+  <HelpKINode Title="menuSceneName field" Url="html/F-Assets.Scripts.UI.PauseMenu.menuSceneName.htm" />
+  <HelpKINode Title="mesh field" Url="html/F-LowPolyWater.LowPolyWater.mesh.htm" />
+  <HelpKINode Title="meshFilter field" Url="html/F-LowPolyWater.LowPolyWater.meshFilter.htm" />
+  <HelpKINode Title="MessText property">
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.TeachAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.BaseAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.MessText.htm" />
+    <HelpKINode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.HealAction.MessText.htm" />
+  </HelpKINode>
+  <HelpKINode Title="millisecondsCharacterRemainsDead field" Url="html/F-Assets.Scripts.Game.Constants.millisecondsCharacterRemainsDead.htm" />
+  <HelpKINode Title="millisecondsInAnHour field" Url="html/F-Assets.Scripts.Game.Constants.millisecondsInAnHour.htm" />
+  <HelpKINode Title="minDistance field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.minDistance.htm" />
+  <HelpKINode Title="minZoom field" Url="html/F-Assets.Scripts.Game.Constants.minZoom.htm" />
+  <HelpKINode Title="mouseSpeed field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.mouseSpeed.htm" />
+  <HelpKINode Title="moveDirection field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.moveDirection.htm" />
+  <HelpKINode Title="MoveDown method" Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.MoveDown.htm" />
+  <HelpKINode Title="MoveUp method" Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.MoveUp.htm" />
+  <HelpKINode Title="MovingToActionLocation enumeration member" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="MovingToActionLocation field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.MovingToActionLocation.htm" />
+  <HelpKINode Title="mSpeed field" Url="html/F-Assets.Scripts.Game.Constants.mSpeed.htm" />
+  <HelpKINode Title="navMeshAgent field" Url="html/F-Assets.Scripts.Game.CharacterController.navMeshAgent.htm" />
+  <HelpKINode Title="neededResourcesToBuildBoat field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToBuildBoat.htm" />
+  <HelpKINode Title="neededResourcesToBuildRefuge field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToBuildRefuge.htm" />
+  <HelpKINode Title="neededResourcesToRepairRefuge field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToRepairRefuge.htm" />
+  <HelpKINode Title="numberOfActiveCharacters field" Url="html/F-Assets.Scripts.Game.Inventory.numberOfActiveCharacters.htm" />
+  <HelpKINode Title="ObjectToGo property" Url="html/P-Assets.Scripts.Game.CharacterAction.ObjectToGo.htm" />
+  <HelpKINode Title="OnCollisionEnter method" Url="html/M-Assets.Scripts.Game.CharacterController.OnCollisionEnter.htm" />
+  <HelpKINode Title="OnEnable method" Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.OnEnable.htm" />
+  <HelpKINode Title="OnHighscoresDownloaded method" Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.OnHighscoresDownloaded.htm" />
+  <HelpKINode Title="OnMouseDown method" Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseDown.htm" />
+  <HelpKINode Title="OnMouseExit method" Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseExit.htm" />
+  <HelpKINode Title="OnMouseOver method" Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseOver.htm" />
+  <HelpKINode Title="OnSliderValueChanged method" Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.OnSliderValueChanged.htm" />
+  <HelpKINode Title="OnTriggerEnter method" Url="html/M-Assets.Scripts.Water.WaterMaterialSwitcher.OnTriggerEnter.htm" />
+  <HelpKINode Title="OnTriggerExit method" Url="html/M-Assets.Scripts.Water.WaterMaterialSwitcher.OnTriggerExit.htm" />
+  <HelpKINode Title="originalColor field" Url="html/F-Assets.Scripts.Game.CharacterController.originalColor.htm" />
+  <HelpKINode Title="originalPosition field" Url="html/F-Assets.Scripts.Game.CharacterController.originalPosition.htm" />
+  <HelpKINode Title="outsideRankingPanel field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.outsideRankingPanel.htm" />
+  <HelpKINode Title="outsideRankingScoreObject field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.outsideRankingScoreObject.htm" />
+  <HelpKINode Title="Panel field" Url="html/F-Assets.Scripts.UI.PopupManager.Panel.htm" />
+  <HelpKINode Title="Pause method" Url="html/M-Assets.Scripts.UI.PauseMenu.Pause.htm" />
+  <HelpKINode Title="PauseMenu class">
+    <HelpKINode Title="PauseMenu Class" Url="html/T-Assets.Scripts.UI.PauseMenu.htm" />
+    <HelpKINode Title="PauseMenu Members" Url="html/AllMembers.T-Assets.Scripts.UI.PauseMenu.htm" />
+    <HelpKINode Title="about PauseMenu class" Url="html/T-Assets.Scripts.UI.PauseMenu.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.UI.PauseMenu.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.UI.PauseMenu.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.UI.PauseMenu.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PauseMenu.gameIsPaused field" Url="html/F-Assets.Scripts.UI.PauseMenu.gameIsPaused.htm" />
+  <HelpKINode Title="PauseMenu.LoadMainMenu method" Url="html/M-Assets.Scripts.UI.PauseMenu.LoadMainMenu.htm" />
+  <HelpKINode Title="PauseMenu.menuSceneName field" Url="html/F-Assets.Scripts.UI.PauseMenu.menuSceneName.htm" />
+  <HelpKINode Title="PauseMenu.Pause method" Url="html/M-Assets.Scripts.UI.PauseMenu.Pause.htm" />
+  <HelpKINode Title="PauseMenu.pauseMenuUI field" Url="html/F-Assets.Scripts.UI.PauseMenu.pauseMenuUI.htm" />
+  <HelpKINode Title="PauseMenu.QuitGame method" Url="html/M-Assets.Scripts.UI.PauseMenu.QuitGame.htm" />
+  <HelpKINode Title="PauseMenu.Resume method" Url="html/M-Assets.Scripts.UI.PauseMenu.Resume.htm" />
+  <HelpKINode Title="PauseMenu.Update method" Url="html/M-Assets.Scripts.UI.PauseMenu.Update.htm" />
+  <HelpKINode Title="pauseMenuUI field" Url="html/F-Assets.Scripts.UI.PauseMenu.pauseMenuUI.htm" />
+  <HelpKINode Title="PeriodicBuildingDamage method" Url="html/M-Assets.Scripts.Game.Inventory.PeriodicBuildingDamage.htm" />
+  <HelpKINode Title="PickFoodAction class">
+    <HelpKINode Title="PickFoodAction Class" Url="html/T-Assets.Scripts.Actions.PickFoodAction.htm" />
+    <HelpKINode Title="PickFoodAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickFoodAction.htm" />
+    <HelpKINode Title="about PickFoodAction class" Url="html/T-Assets.Scripts.Actions.PickFoodAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickFoodAction.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Actions.PickFoodAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.PickFoodAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.PickFoodAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PickFoodAction.ActionName property" Url="html/P-Assets.Scripts.Actions.PickFoodAction.ActionName.htm" />
+  <HelpKINode Title="PickFoodAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.PickFoodAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="PickFoodAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.PickFoodAction.DestinationName.htm" />
+  <HelpKINode Title="PickFoodAction.destinations field" Url="html/F-Assets.Scripts.Actions.PickFoodAction.destinations.htm" />
+  <HelpKINode Title="PickFoodAction.GetRandomDestination method" Url="html/M-Assets.Scripts.Actions.PickFoodAction.GetRandomDestination.htm" />
+  <HelpKINode Title="PickFoodAction.IncrementQuantity property" Url="html/P-Assets.Scripts.Actions.PickFoodAction.IncrementQuantity.htm" />
+  <HelpKINode Title="PickFoodAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.PickFoodAction.MakeAMess.htm" />
+  <HelpKINode Title="PickFoodAction.MessText property" Url="html/P-Assets.Scripts.Actions.PickFoodAction.MessText.htm" />
+  <HelpKINode Title="PickFoodAction.Start method" Url="html/M-Assets.Scripts.Actions.PickFoodAction.Start.htm" />
+  <HelpKINode Title="pickFoodActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.pickFoodActionMessText.htm" />
+  <HelpKINode Title="PickResourcesAction class">
+    <HelpKINode Title="PickResourcesAction Class" Url="html/T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+    <HelpKINode Title="PickResourcesAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+    <HelpKINode Title="about PickResourcesAction class" Url="html/T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PickResourcesAction.ActionName property" Url="html/P-Assets.Scripts.Actions.PickResourcesAction.ActionName.htm" />
+  <HelpKINode Title="PickResourcesAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.PickResourcesAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="PickResourcesAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.PickResourcesAction.DestinationName.htm" />
+  <HelpKINode Title="PickResourcesAction.destinations field" Url="html/F-Assets.Scripts.Actions.PickResourcesAction.destinations.htm" />
+  <HelpKINode Title="PickResourcesAction.GetRandomDestination method" Url="html/M-Assets.Scripts.Actions.PickResourcesAction.GetRandomDestination.htm" />
+  <HelpKINode Title="PickResourcesAction.GoRest method" Url="html/M-Assets.Scripts.Actions.PickResourcesAction.GoRest.htm" />
+  <HelpKINode Title="PickResourcesAction.IncrementQuantity property" Url="html/P-Assets.Scripts.Actions.PickResourcesAction.IncrementQuantity.htm" />
+  <HelpKINode Title="PickResourcesAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.PickResourcesAction.MakeAMess.htm" />
+  <HelpKINode Title="PickResourcesAction.MessText property" Url="html/P-Assets.Scripts.Actions.PickResourcesAction.MessText.htm" />
+  <HelpKINode Title="PickResourcesAction.Start method" Url="html/M-Assets.Scripts.Actions.PickResourcesAction.Start.htm" />
+  <HelpKINode Title="pickResourcesActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.pickResourcesActionMessText.htm" />
+  <HelpKINode Title="pickResourcesActionTimeMultiplierInRest field" Url="html/F-Assets.Scripts.Game.Constants.pickResourcesActionTimeMultiplierInRest.htm" />
+  <HelpKINode Title="PickWaterAction class">
+    <HelpKINode Title="PickWaterAction Class" Url="html/T-Assets.Scripts.Actions.PickWaterAction.htm" />
+    <HelpKINode Title="PickWaterAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickWaterAction.htm" />
+    <HelpKINode Title="about PickWaterAction class" Url="html/T-Assets.Scripts.Actions.PickWaterAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickWaterAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.PickWaterAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.PickWaterAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PickWaterAction.ActionName property" Url="html/P-Assets.Scripts.Actions.PickWaterAction.ActionName.htm" />
+  <HelpKINode Title="PickWaterAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.PickWaterAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="PickWaterAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.PickWaterAction.DestinationName.htm" />
+  <HelpKINode Title="PickWaterAction.IncrementQuantity property" Url="html/P-Assets.Scripts.Actions.PickWaterAction.IncrementQuantity.htm" />
+  <HelpKINode Title="PickWaterAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.PickWaterAction.MakeAMess.htm" />
+  <HelpKINode Title="PickWaterAction.MessText property" Url="html/P-Assets.Scripts.Actions.PickWaterAction.MessText.htm" />
+  <HelpKINode Title="pickWaterActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.pickWaterActionMessText.htm" />
+  <HelpKINode Title="Player field" Url="html/F-global.idle_mocap_follow_player.Player.htm" />
+  <HelpKINode Title="playerName field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.playerName.htm" />
+  <HelpKINode Title="PlayGame method" Url="html/M-Assets.Scripts.UI.MainMenu.PlayGame.htm" />
+  <HelpKINode Title="pointsDecreasePerDeadCharacter field" Url="html/F-Assets.Scripts.Game.Constants.pointsDecreasePerDeadCharacter.htm" />
+  <HelpKINode Title="pointsDecreasePerHour field" Url="html/F-Assets.Scripts.Game.Constants.pointsDecreasePerHour.htm" />
+  <HelpKINode Title="PopupManager class">
+    <HelpKINode Title="PopupManager Class" Url="html/T-Assets.Scripts.UI.PopupManager.htm" />
+    <HelpKINode Title="PopupManager Members" Url="html/AllMembers.T-Assets.Scripts.UI.PopupManager.htm" />
+    <HelpKINode Title="about PopupManager class" Url="html/T-Assets.Scripts.UI.PopupManager.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.UI.PopupManager.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.UI.PopupManager.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.UI.PopupManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PopupManager.HideMessage method" Url="html/M-Assets.Scripts.UI.PopupManager.HideMessage.htm" />
+  <HelpKINode Title="PopupManager.Panel field" Url="html/F-Assets.Scripts.UI.PopupManager.Panel.htm" />
+  <HelpKINode Title="PopupManager.ShowMessage method" Url="html/M-Assets.Scripts.UI.PopupManager.ShowMessage.htm" />
+  <HelpKINode Title="PopupManager.Start method" Url="html/M-Assets.Scripts.UI.PopupManager.Start.htm" />
+  <HelpKINode Title="PositionsAreNear method" Url="html/M-Assets.Scripts.Utils.Utils.PositionsAreNear.htm" />
+  <HelpKINode Title="PossibleDeath method" Url="html/M-Assets.Scripts.Game.CourseOfTime.PossibleDeath.htm" />
+  <HelpKINode Title="possibleDeathLimit field" Url="html/F-Assets.Scripts.Game.Constants.possibleDeathLimit.htm" />
+  <HelpKINode Title="PourWater method" Url="html/M-Assets.Scripts.Game.Inventory.PourWater.htm" />
+  <HelpKINode Title="pourWaterQuantity field" Url="html/F-Assets.Scripts.Game.Constants.pourWaterQuantity.htm" />
+  <HelpKINode Title="prevMousePos field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.prevMousePos.htm" />
+  <HelpKINode Title="privateCode field" Url="html/F-Assets.Scripts.Game.Constants.privateCode.htm" />
+  <HelpKINode Title="PsychologistBeTreatedAction class">
+    <HelpKINode Title="PsychologistBeTreatedAction Class" Url="html/T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+    <HelpKINode Title="PsychologistBeTreatedAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+    <HelpKINode Title="about PsychologistBeTreatedAction class" Url="html/T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PsychologistBeTreatedAction.ActionName property" Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.ActionName.htm" />
+  <HelpKINode Title="PsychologistBeTreatedAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.DestinationName.htm" />
+  <HelpKINode Title="PsychologistBeTreatedAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.WhereToLookAt.htm" />
+  <HelpKINode Title="PsychologistTreatAction class">
+    <HelpKINode Title="PsychologistTreatAction Class" Url="html/T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+    <HelpKINode Title="PsychologistTreatAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+    <HelpKINode Title="about PsychologistTreatAction class" Url="html/T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PsychologistTreatAction.ActionName property" Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.ActionName.htm" />
+  <HelpKINode Title="PsychologistTreatAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="PsychologistTreatAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.DestinationName.htm" />
+  <HelpKINode Title="PsychologistTreatAction.FinishSpecificAction method" Url="html/M-Assets.Scripts.Actions.PsychologistTreatAction.FinishSpecificAction.htm" />
+  <HelpKINode Title="PsychologistTreatAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.PsychologistTreatAction.MakeAMess.htm" />
+  <HelpKINode Title="PsychologistTreatAction.MessText property" Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.MessText.htm" />
+  <HelpKINode Title="PsychologistTreatAction.SecondaryAction property" Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.SecondaryAction.htm" />
+  <HelpKINode Title="PsychologistTreatAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.WhereToLookAt.htm" />
+  <HelpKINode Title="psychologistTreatActionDowngradeText field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionDowngradeText.htm" />
+  <HelpKINode Title="psychologistTreatActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionMessText.htm" />
+  <HelpKINode Title="psychologistTreatActionUpgradeText field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionUpgradeText.htm" />
+  <HelpKINode Title="publicCode field" Url="html/F-Assets.Scripts.Game.Constants.publicCode.htm" />
+  <HelpKINode Title="QuitGame method">
+    <HelpKINode Title="QuitGame Method " Url="html/M-Assets.Scripts.UI.PauseMenu.QuitGame.htm" />
+    <HelpKINode Title="QuitGame Method " Url="html/M-Assets.Scripts.UI.MainMenu.QuitGame.htm" />
+  </HelpKINode>
+  <HelpKINode Title="rectTransform field" Url="html/F-Assets.Scripts.UI.TutorialRectTransformSlider.rectTransform.htm" />
+  <HelpKINode Title="RefreshHighscores method" Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.RefreshHighscores.htm" />
+  <HelpKINode Title="refugeBuildPercentage field" Url="html/F-Assets.Scripts.Game.Inventory.refugeBuildPercentage.htm" />
+  <HelpKINode Title="refugeFinished field" Url="html/F-Assets.Scripts.Game.Inventory.refugeFinished.htm" />
+  <HelpKINode Title="renderer field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.renderer.htm" />
+  <HelpKINode Title="resourcesUnits field" Url="html/F-Assets.Scripts.Game.Inventory.resourcesUnits.htm" />
+  <HelpKINode Title="RestAction class">
+    <HelpKINode Title="RestAction Class" Url="html/T-Assets.Scripts.Actions.RestAction.htm" />
+    <HelpKINode Title="RestAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.RestAction.htm" />
+    <HelpKINode Title="about RestAction class" Url="html/T-Assets.Scripts.Actions.RestAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.RestAction.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Actions.RestAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.RestAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.RestAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RestAction.ActionName property" Url="html/P-Assets.Scripts.Actions.RestAction.ActionName.htm" />
+  <HelpKINode Title="RestAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.RestAction.DestinationName.htm" />
+  <HelpKINode Title="RestAction.destinations field" Url="html/F-Assets.Scripts.Actions.RestAction.destinations.htm" />
+  <HelpKINode Title="RestAction.GetRandomDestination method" Url="html/M-Assets.Scripts.Actions.RestAction.GetRandomDestination.htm" />
+  <HelpKINode Title="RestAction.SelectAction method" Url="html/M-Assets.Scripts.Actions.RestAction.SelectAction.htm" />
+  <HelpKINode Title="RestAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.RestAction.WhereToLookAt.htm" />
+  <HelpKINode Title="Resume method" Url="html/M-Assets.Scripts.UI.PauseMenu.Resume.htm" />
+  <HelpKINode Title="ReturningFromActionLocation enumeration member" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="ReturningFromActionLocation field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.ReturningFromActionLocation.htm" />
+  <HelpKINode Title="running field" Url="html/F-Assets.Scripts.Game.CharacterController.running.htm" />
+  <HelpKINode Title="score field">
+    <HelpKINode Title="score Field" Url="html/F-Assets.Scripts.Highscores.Highscore.score.htm" />
+    <HelpKINode Title="score Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.score.htm" />
+  </HelpKINode>
+  <HelpKINode Title="scrollDelta field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.scrollDelta.htm" />
+  <HelpKINode Title="scrollSpeed field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.scrollSpeed.htm" />
+  <HelpKINode Title="SecondaryAction property">
+    <HelpKINode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.BaseDoubleAction.SecondaryAction.htm" />
+    <HelpKINode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.SecondaryAction.htm" />
+    <HelpKINode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.TeachAction.SecondaryAction.htm" />
+    <HelpKINode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryAction.htm" />
+    <HelpKINode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.HealAction.SecondaryAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SecondaryCharacter property" Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryCharacter.htm" />
+  <HelpKINode Title="SecondaryCharacterScript property" Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryCharacterScript.htm" />
+  <HelpKINode Title="seed field" Url="html/F-Assets.Scripts.Utils.StaticRandom.seed.htm" />
+  <HelpKINode Title="SelectAction method">
+    <HelpKINode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.Action.SelectAction.htm" />
+    <HelpKINode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.SelectAction.htm" />
+    <HelpKINode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.RestAction.SelectAction.htm" />
+    <HelpKINode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.SelectAction.htm" />
+    <HelpKINode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.SelectAction.htm" />
+    <HelpKINode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.SelectAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectRandomCharacterAction method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.SelectRandomCharacterAction.htm" />
+  <HelpKINode Title="SetHealth method" Url="html/M-Assets.Scripts.Game.Inventory.SetHealth.htm" />
+  <HelpKINode Title="SetMaxHealth method" Url="html/M-Assets.Scripts.Game.Inventory.SetMaxHealth.htm" />
+  <HelpKINode Title="SetUpPropertyBlock method" Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.SetUpPropertyBlock.htm" />
+  <HelpKINode Title="ShowActionRemainingTime method" Url="html/M-Assets.Scripts.Game.CharacterController.ShowActionRemainingTime.htm" />
+  <HelpKINode Title="ShowMessage method" Url="html/M-Assets.Scripts.UI.PopupManager.ShowMessage.htm" />
+  <HelpKINode Title="slider field">
+    <HelpKINode Title="slider Field" Url="html/F-Assets.Scripts.Game.Inventory.slider.htm" />
+    <HelpKINode Title="slider Field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.slider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="speed field">
+    <HelpKINode Title="speed Field" Url="html/F-Assets.MobileOptimizedWater.Scripts.CameraRotator.speed.htm" />
+    <HelpKINode Title="speed Field" Url="html/F-Assets.MobileOptimizedWater.Scripts.TouchRotator.speed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Start method">
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Game.CharacterController.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Game.AudioManager.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Highscores.HighscoresManager.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.UI.TextUI.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.UI.PopupManager.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Actions.PickResourcesAction.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-LowPolyWater.LowPolyWater.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Actions.PickFoodAction.Start.htm" />
+    <HelpKINode Title="Start Method " Url="html/M-Assets.Scripts.Game.Inventory.Start.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StartAction method">
+    <HelpKINode Title="StartAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.StartAction.htm" />
+    <HelpKINode Title="StartAction Method " Url="html/M-Assets.Scripts.Actions.Action.StartAction.htm" />
+    <HelpKINode Title="StartAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.StartAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="startTime field" Url="html/F-Assets.Scripts.Game.CourseOfTime.startTime.htm" />
+  <HelpKINode Title="StartTime property" Url="html/P-Assets.Scripts.Game.CharacterAction.StartTime.htm" />
+  <HelpKINode Title="StaticRandom class">
+    <HelpKINode Title="StaticRandom Class" Url="html/T-Assets.Scripts.Utils.StaticRandom.htm" />
+    <HelpKINode Title="StaticRandom Members" Url="html/AllMembers.T-Assets.Scripts.Utils.StaticRandom.htm" />
+    <HelpKINode Title="about StaticRandom class" Url="html/T-Assets.Scripts.Utils.StaticRandom.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Utils.StaticRandom.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Assets.Scripts.Utils.StaticRandom.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.Utils.StaticRandom.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Utils.StaticRandom.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StaticRandom.Instance property" Url="html/P-Assets.Scripts.Utils.StaticRandom.Instance.htm" />
+  <HelpKINode Title="StaticRandom.seed field" Url="html/F-Assets.Scripts.Utils.StaticRandom.seed.htm" />
+  <HelpKINode Title="StaticRandom.StaticRandom constructor" Url="html/M-Assets.Scripts.Utils.StaticRandom.-ctor.htm" />
+  <HelpKINode Title="StaticRandom.threadLocal field" Url="html/F-Assets.Scripts.Utils.StaticRandom.threadLocal.htm" />
+  <HelpKINode Title="Status property" Url="html/P-Assets.Scripts.Game.CharacterAction.Status.htm" />
+  <HelpKINode Title="sunHealthDamagePerHour field" Url="html/F-Assets.Scripts.Game.Constants.sunHealthDamagePerHour.htm" />
+  <HelpKINode Title="TakeToxicFood method" Url="html/M-Assets.Scripts.Game.Inventory.TakeToxicFood.htm" />
+  <HelpKINode Title="TeachAction class">
+    <HelpKINode Title="TeachAction Class" Url="html/T-Assets.Scripts.Actions.TeachAction.htm" />
+    <HelpKINode Title="TeachAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.TeachAction.htm" />
+    <HelpKINode Title="about TeachAction class" Url="html/T-Assets.Scripts.Actions.TeachAction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Actions.TeachAction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Actions.TeachAction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Actions.TeachAction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeachAction.ActionName property" Url="html/P-Assets.Scripts.Actions.TeachAction.ActionName.htm" />
+  <HelpKINode Title="TeachAction.ActionNameForMessages property" Url="html/P-Assets.Scripts.Actions.TeachAction.ActionNameForMessages.htm" />
+  <HelpKINode Title="TeachAction.DestinationName property" Url="html/P-Assets.Scripts.Actions.TeachAction.DestinationName.htm" />
+  <HelpKINode Title="TeachAction.FinishSpecificAction method" Url="html/M-Assets.Scripts.Actions.TeachAction.FinishSpecificAction.htm" />
+  <HelpKINode Title="TeachAction.MakeAMess method" Url="html/M-Assets.Scripts.Actions.TeachAction.MakeAMess.htm" />
+  <HelpKINode Title="TeachAction.MessText property" Url="html/P-Assets.Scripts.Actions.TeachAction.MessText.htm" />
+  <HelpKINode Title="TeachAction.SecondaryAction property" Url="html/P-Assets.Scripts.Actions.TeachAction.SecondaryAction.htm" />
+  <HelpKINode Title="TeachAction.WhereToLookAt property" Url="html/P-Assets.Scripts.Actions.TeachAction.WhereToLookAt.htm" />
+  <HelpKINode Title="teachActionALittleBetterButBadText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionALittleBetterButBadText.htm" />
+  <HelpKINode Title="teachActionALittleBetterText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionALittleBetterText.htm" />
+  <HelpKINode Title="teachActionBadTeacherText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionBadTeacherText.htm" />
+  <HelpKINode Title="teachActionExpertText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionExpertText.htm" />
+  <HelpKINode Title="teachActionMessText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionMessText.htm" />
+  <HelpKINode Title="teachActionQuiteGoodText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionQuiteGoodText.htm" />
+  <HelpKINode Title="teachActionVeryGoodText field" Url="html/F-Assets.Scripts.Game.Constants.teachActionVeryGoodText.htm" />
+  <HelpKINode Title="TearDownBoat method" Url="html/M-Assets.Scripts.Game.Inventory.TearDownBoat.htm" />
+  <HelpKINode Title="TearDownRefuge method" Url="html/M-Assets.Scripts.Game.Inventory.TearDownRefuge.htm" />
+  <HelpKINode Title="TextUI class">
+    <HelpKINode Title="TextUI Class" Url="html/T-Assets.Scripts.UI.TextUI.htm" />
+    <HelpKINode Title="TextUI Members" Url="html/AllMembers.T-Assets.Scripts.UI.TextUI.htm" />
+    <HelpKINode Title="about TextUI class" Url="html/T-Assets.Scripts.UI.TextUI.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.UI.TextUI.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.UI.TextUI.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.UI.TextUI.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextUI.cameraToLookAt field" Url="html/F-Assets.Scripts.UI.TextUI.cameraToLookAt.htm" />
+  <HelpKINode Title="TextUI.Start method" Url="html/M-Assets.Scripts.UI.TextUI.Start.htm" />
+  <HelpKINode Title="TextUI.Update method" Url="html/M-Assets.Scripts.UI.TextUI.Update.htm" />
+  <HelpKINode Title="textureVisibility field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.textureVisibility.htm" />
+  <HelpKINode Title="threadLocal field" Url="html/F-Assets.Scripts.Utils.StaticRandom.threadLocal.htm" />
+  <HelpKINode Title="timer field" Url="html/F-Assets.Scripts.Helpers.FPSCounter.timer.htm" />
+  <HelpKINode Title="tooMuchSunText field" Url="html/F-Assets.Scripts.Game.Constants.tooMuchSunText.htm" />
+  <HelpKINode Title="TutorialRectTransformSlider class">
+    <HelpKINode Title="TutorialRectTransformSlider Class" Url="html/T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+    <HelpKINode Title="TutorialRectTransformSlider Members" Url="html/AllMembers.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+    <HelpKINode Title="about TutorialRectTransformSlider class" Url="html/T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TutorialRectTransformSlider.gameObjectWithRectTransform field" Url="html/F-Assets.Scripts.UI.TutorialRectTransformSlider.gameObjectWithRectTransform.htm" />
+  <HelpKINode Title="TutorialRectTransformSlider.MoveDown method" Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.MoveDown.htm" />
+  <HelpKINode Title="TutorialRectTransformSlider.MoveUp method" Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.MoveUp.htm" />
+  <HelpKINode Title="TutorialRectTransformSlider.rectTransform field" Url="html/F-Assets.Scripts.UI.TutorialRectTransformSlider.rectTransform.htm" />
+  <HelpKINode Title="TutorialRectTransformSlider.Start method" Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.Start.htm" />
+  <HelpKINode Title="UnselectLastCharacter method" Url="html/M-Assets.Scripts.Game.CharacterActionsController.UnselectLastCharacter.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Helpers.FPSCounter.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Game.CameraHandler.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Water.WaterPropertyBlockSetter.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-global.idle_mocap_follow_player.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.TouchRotator.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.UI.PauseMenu.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.UI.TextUI.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-LowPolyWater.LowPolyWater.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Game.Inventory.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.FPSUI.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraRotator.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.Update.htm" />
+    <HelpKINode Title="Update Method " Url="html/M-Assets.Scripts.Game.CharacterController.Update.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UpdateDepthPosition method" Url="html/M-Assets.MobileOptimizedWater.Scripts.CameraDepthSlider.UpdateDepthPosition.htm" />
+  <HelpKINode Title="UploadNewHighscore method" Url="html/M-Assets.Scripts.Highscores.Highscores.UploadNewHighscore.htm" />
+  <HelpKINode Title="username field" Url="html/F-Assets.Scripts.Highscores.Highscore.username.htm" />
+  <HelpKINode Title="Utils class">
+    <HelpKINode Title="Utils Class" Url="html/T-Assets.Scripts.Utils.Utils.htm" />
+    <HelpKINode Title="Utils Members" Url="html/AllMembers.T-Assets.Scripts.Utils.Utils.htm" />
+    <HelpKINode Title="about Utils class" Url="html/T-Assets.Scripts.Utils.Utils.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Assets.Scripts.Utils.Utils.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Assets.Scripts.Utils.Utils.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Assets.Scripts.Utils.Utils.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Utils.Center property" Url="html/P-Assets.Scripts.Utils.Utils.Center.htm" />
+  <HelpKINode Title="Utils.FemaleNames property" Url="html/P-Assets.Scripts.Utils.Utils.FemaleNames.htm" />
+  <HelpKINode Title="Utils.GetCenteredPositions method" Url="html/M-Assets.Scripts.Utils.Utils.GetCenteredPositions.htm" />
+  <HelpKINode Title="Utils.GetRandomCenteredPosition method" Url="html/M-Assets.Scripts.Utils.Utils.GetRandomCenteredPosition.htm" />
+  <HelpKINode Title="Utils.GetRandomName method" Url="html/M-Assets.Scripts.Utils.Utils.GetRandomName.htm" />
+  <HelpKINode Title="Utils.MaleNames property" Url="html/P-Assets.Scripts.Utils.Utils.MaleNames.htm" />
+  <HelpKINode Title="Utils.PositionsAreNear method" Url="html/M-Assets.Scripts.Utils.Utils.PositionsAreNear.htm" />
+  <HelpKINode Title="vertices field" Url="html/F-LowPolyWater.LowPolyWater.vertices.htm" />
+  <HelpKINode Title="WaitingForSecondaryCharacter enumeration member" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+  <HelpKINode Title="WaitingForSecondaryCharacter field" Url="html/F-Assets.Scripts.Game.CharacterActionStatus.WaitingForSecondaryCharacter.htm" />
+  <HelpKINode Title="waterColor field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterColor.htm" />
+  <HelpKINode Title="waterConsumptionFrequency field" Url="html/F-Assets.Scripts.Game.Constants.waterConsumptionFrequency.htm" />
+  <HelpKINode Title="waterConsumptionPerCharacter field" Url="html/F-Assets.Scripts.Game.Constants.waterConsumptionPerCharacter.htm" />
+  <HelpKINode Title="waterDeep field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterDeep.htm" />
+  <HelpKINode Title="waterDepthParam field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterDepthParam.htm" />
+  <HelpKINode Title="waterHeight field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterHeight.htm" />
+  <HelpKINode Title="waterMaterial field" Url="html/F-Assets.Scripts.Water.WaterMaterialSwitcher.waterMaterial.htm" />
+  <HelpKINode Title="waterMinAlpha field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterMinAlpha.htm" />
+  <HelpKINode Title="waterProperties field" Url="html/F-Assets.Scripts.Water.WaterArea.waterProperties.htm" />
+  <HelpKINode Title="WaterPropertyBlock property" Url="html/P-Assets.Scripts.Water.WaterArea.WaterPropertyBlock.htm" />
+  <HelpKINode Title="waterRenderers field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterRenderers.htm" />
+  <HelpKINode Title="waterTex field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterTex.htm" />
+  <HelpKINode Title="waterTile field" Url="html/F-Assets.Scripts.Water.WaterPropertyBlockSetter.waterTile.htm" />
+  <HelpKINode Title="waterUnits field" Url="html/F-Assets.Scripts.Game.Inventory.waterUnits.htm" />
+  <HelpKINode Title="waveFrequency field" Url="html/F-LowPolyWater.LowPolyWater.waveFrequency.htm" />
+  <HelpKINode Title="waveHeight field" Url="html/F-LowPolyWater.LowPolyWater.waveHeight.htm" />
+  <HelpKINode Title="waveLength field" Url="html/F-LowPolyWater.LowPolyWater.waveLength.htm" />
+  <HelpKINode Title="waveOriginPosition field" Url="html/F-LowPolyWater.LowPolyWater.waveOriginPosition.htm" />
+  <HelpKINode Title="webURL field" Url="html/F-Assets.Scripts.Game.Constants.webURL.htm" />
+  <HelpKINode Title="WhereToLookAt property">
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.BeHealedAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.RestAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.BaseDoubleAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.TeachAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.HealAction.WhereToLookAt.htm" />
+    <HelpKINode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.LearnAction.WhereToLookAt.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Win method" Url="html/M-Assets.Scripts.Actions.BuildBoatAction.Win.htm" />
+  <HelpKINode Title="winPanel field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.winPanel.htm" />
+  <HelpKINode Title="won field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.won.htm" />
+  <HelpKINode Title="zoom field" Url="html/F-Assets.Scripts.Game.CameraHandler.zoom.htm" />
+  <HelpKINode Title="zoomChangeAmount field" Url="html/F-Assets.Scripts.Game.Constants.zoomChangeAmount.htm" />
+</HelpKI>

@@ -1,0 +1,638 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="3ba2dd1e-6f08-4dde-82d8-7207765fc353" Title="Assets.Scripts.Actions Namespace" Url="html/N-Assets.Scripts.Actions.htm">
+    <HelpTOCNode Id="fd54c1ee-a76e-4d8c-8e87-7a1bc8967d02" Title="Action Interface" Url="html/T-Assets.Scripts.Actions.Action.htm">
+      <HelpTOCNode Title="Action Members" Url="html/AllMembers.T-Assets.Scripts.Actions.Action.htm" />
+      <HelpTOCNode Id="7cd6f591-d763-4fa1-9046-0e3fbab3cfaf" Title="Action Methods" Url="html/Methods.T-Assets.Scripts.Actions.Action.htm">
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.Action.FinishAction.htm" />
+        <HelpTOCNode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.Action.MakeAction.htm" />
+        <HelpTOCNode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.Action.SelectAction.htm" />
+        <HelpTOCNode Title="StartAction Method " Url="html/M-Assets.Scripts.Actions.Action.StartAction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4b5bcd1e-167a-4201-8709-feca1566efdd" Title="Action Properties" Url="html/Properties.T-Assets.Scripts.Actions.Action.htm">
+        <HelpTOCNode Title="ActionDurationMilliseconds Property " Url="html/P-Assets.Scripts.Actions.Action.ActionDurationMilliseconds.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.Action.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.Action.DestinationName.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5450c26f-20ae-4d4c-aa5e-81710b524e6a" Title="ActionsManager Class" Url="html/T-Assets.Scripts.Actions.ActionsManager.htm">
+      <HelpTOCNode Title="ActionsManager Members" Url="html/AllMembers.T-Assets.Scripts.Actions.ActionsManager.htm" />
+      <HelpTOCNode Id="d4d9d901-a550-4162-83f0-77132ce1eba4" Title="ActionsManager Fields" Url="html/Fields.T-Assets.Scripts.Actions.ActionsManager.htm">
+        <HelpTOCNode Title="actions Field" Url="html/F-Assets.Scripts.Actions.ActionsManager.actions.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2affc5d1-de47-4bd8-b90e-a97a769baa65" Title="ActionsManager Properties" Url="html/Properties.T-Assets.Scripts.Actions.ActionsManager.htm">
+        <HelpTOCNode Title="Actions Property " Url="html/P-Assets.Scripts.Actions.ActionsManager.Actions.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d1c35e75-eae6-4ffd-83ab-f5cb52fe18a3" Title="BaseAction Class" Url="html/T-Assets.Scripts.Actions.BaseAction.htm">
+      <HelpTOCNode Title="BaseAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseAction.htm" />
+      <HelpTOCNode Id="2ffa3a88-6859-4d8c-b8f2-4cb1d6a299c2" Title="BaseAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.BaseAction.htm">
+        <HelpTOCNode Title="AssignSecondaryAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.AssignSecondaryAction.htm" />
+        <HelpTOCNode Title="ChangeSecondaryCharacterStatus Method " Url="html/M-Assets.Scripts.Actions.BaseAction.ChangeSecondaryCharacterStatus.htm" />
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.FinishAction.htm" />
+        <HelpTOCNode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BaseAction.LookAtSomething.htm" />
+        <HelpTOCNode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.MakeAction.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.BaseAction.MakeAMess.htm" />
+        <HelpTOCNode Title="MakesAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.MakesAction.htm" />
+        <HelpTOCNode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.SelectAction.htm" />
+        <HelpTOCNode Title="StartAction Method " Url="html/M-Assets.Scripts.Actions.BaseAction.StartAction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0182d3fe-0a06-4213-888b-cb1db5507554" Title="BaseAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.BaseAction.htm">
+        <HelpTOCNode Title="ActionDurationMilliseconds Property " Url="html/P-Assets.Scripts.Actions.BaseAction.ActionDurationMilliseconds.htm" />
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BaseAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BaseAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BaseAction.DestinationName.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.BaseAction.MessText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b2f4896c-fa06-4c6f-998d-ffc3395988b5" Title="BaseDoubleAction Class" Url="html/T-Assets.Scripts.Actions.BaseDoubleAction.htm">
+      <HelpTOCNode Title="BaseDoubleAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseDoubleAction.htm" />
+      <HelpTOCNode Id="791d47e1-204f-4227-9816-700e6e81078c" Title="BaseDoubleAction Fields" Url="html/Fields.T-Assets.Scripts.Actions.BaseDoubleAction.htm">
+        <HelpTOCNode Title="button Field" Url="html/F-Assets.Scripts.Actions.BaseDoubleAction.button.htm" />
+        <HelpTOCNode Title="charAction Field" Url="html/F-Assets.Scripts.Actions.BaseDoubleAction.charAction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c829c997-7cd8-45c0-b54c-a5d5a9b3459d" Title="BaseDoubleAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.BaseDoubleAction.htm">
+        <HelpTOCNode Title="AssignSecondaryAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.AssignSecondaryAction.htm" />
+        <HelpTOCNode Title="ChangeSecondaryCharacterStatus Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.ChangeSecondaryCharacterStatus.htm" />
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.FinishAction.htm" />
+        <HelpTOCNode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.FinishSpecificAction.htm" />
+        <HelpTOCNode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.LookAtSomething.htm" />
+        <HelpTOCNode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BaseDoubleAction.SelectAction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="025eb993-6e6b-40de-bdc5-4228fad188ff" Title="BaseDoubleAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.BaseDoubleAction.htm">
+        <HelpTOCNode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.BaseDoubleAction.SecondaryAction.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.BaseDoubleAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f8006cca-2989-44fe-9e0f-096389808c06" Title="BasePasiveAction Class" Url="html/T-Assets.Scripts.Actions.BasePasiveAction.htm">
+      <HelpTOCNode Title="BasePasiveAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BasePasiveAction.htm" />
+      <HelpTOCNode Id="580f69c5-c42b-4bdd-848c-fa4a2e4f23b6" Title="BasePasiveAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.BasePasiveAction.htm">
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.FinishAction.htm" />
+        <HelpTOCNode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.LookAtSomething.htm" />
+        <HelpTOCNode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.MakeAction.htm" />
+        <HelpTOCNode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.SelectAction.htm" />
+        <HelpTOCNode Title="StartAction Method " Url="html/M-Assets.Scripts.Actions.BasePasiveAction.StartAction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="907a0cf7-385c-4e0a-af1d-7b0b9b6b1e65" Title="BasePasiveAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.BasePasiveAction.htm">
+        <HelpTOCNode Title="ActionDurationMilliseconds Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionDurationMilliseconds.htm" />
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.DestinationName.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.BasePasiveAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d1a42c03-72a5-4243-a7db-7ade59548966" Title="BaseSimpleAction Class" Url="html/T-Assets.Scripts.Actions.BaseSimpleAction.htm">
+      <HelpTOCNode Title="BaseSimpleAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BaseSimpleAction.htm" />
+      <HelpTOCNode Id="ed790095-80c2-4f5d-a98f-a6ec8b2ccd13" Title="BaseSimpleAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.BaseSimpleAction.htm">
+        <HelpTOCNode Title="AssignSecondaryAction Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.AssignSecondaryAction.htm" />
+        <HelpTOCNode Title="ChangeSecondaryCharacterStatus Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.ChangeSecondaryCharacterStatus.htm" />
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.FinishAction.htm" />
+        <HelpTOCNode Title="LookAtSomething Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.LookAtSomething.htm" />
+        <HelpTOCNode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.BaseSimpleAction.SelectAction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="977757a8-0f7f-4406-a8df-58b70b861afb" Title="BaseSimpleAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.BaseSimpleAction.htm">
+        <HelpTOCNode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.BaseSimpleAction.IncrementQuantity.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe91a135-86c3-49a4-9fba-8fe2144d9e6e" Title="BeHealedAction Class" Url="html/T-Assets.Scripts.Actions.BeHealedAction.htm">
+      <HelpTOCNode Title="BeHealedAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BeHealedAction.htm" />
+      <HelpTOCNode Title="BeHealedAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.BeHealedAction.htm" />
+      <HelpTOCNode Id="f4881f4e-0b5f-44a2-8e8b-ca36108aa853" Title="BeHealedAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.BeHealedAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BeHealedAction.ActionName.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BeHealedAction.DestinationName.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.BeHealedAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="323ebfc7-cd4c-42c6-84bd-ca7074bd849c" Title="BuildBoatAction Class" Url="html/T-Assets.Scripts.Actions.BuildBoatAction.htm">
+      <HelpTOCNode Title="BuildBoatAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildBoatAction.htm" />
+      <HelpTOCNode Id="e276f4de-6c83-467f-b8ef-a26e99009d80" Title="BuildBoatAction Fields" Url="html/Fields.T-Assets.Scripts.Actions.BuildBoatAction.htm">
+        <HelpTOCNode Title="finishedBoat Field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.finishedBoat.htm" />
+        <HelpTOCNode Title="winPanel Field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.winPanel.htm" />
+        <HelpTOCNode Title="won Field" Url="html/F-Assets.Scripts.Actions.BuildBoatAction.won.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4200da35-209b-42ff-a3c7-737fbd0d34aa" Title="BuildBoatAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.BuildBoatAction.htm">
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.FinishAction.htm" />
+        <HelpTOCNode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.MakeAction.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.MakeAMess.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.Start.htm" />
+        <HelpTOCNode Title="Win Method " Url="html/M-Assets.Scripts.Actions.BuildBoatAction.Win.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6696136b-cb74-4505-ae05-b102c7643352" Title="BuildBoatAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.BuildBoatAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.DestinationName.htm" />
+        <HelpTOCNode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.IncrementQuantity.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.BuildBoatAction.MessText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="735d3437-309c-4ac1-8152-0bc921ce5332" Title="BuildRefugeAction Class" Url="html/T-Assets.Scripts.Actions.BuildRefugeAction.htm">
+      <HelpTOCNode Title="BuildRefugeAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.BuildRefugeAction.htm" />
+      <HelpTOCNode Id="b9669167-21d7-43b7-b1a8-95d52f0c6070" Title="BuildRefugeAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.BuildRefugeAction.htm">
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.FinishAction.htm" />
+        <HelpTOCNode Title="MakeAction Method " Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.MakeAction.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.BuildRefugeAction.MakeAMess.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d0e2514c-7307-4b89-a352-317e3ce1c4e0" Title="BuildRefugeAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.BuildRefugeAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.DestinationName.htm" />
+        <HelpTOCNode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.IncrementQuantity.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.BuildRefugeAction.MessText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a4f5fa9d-b5de-419f-bd40-21325c65d90e" Title="HealAction Class" Url="html/T-Assets.Scripts.Actions.HealAction.htm">
+      <HelpTOCNode Title="HealAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.HealAction.htm" />
+      <HelpTOCNode Id="f463e1a1-3fd0-4d4a-85ce-8d356b64f29a" Title="HealAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.HealAction.htm">
+        <HelpTOCNode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.HealAction.FinishSpecificAction.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.HealAction.MakeAMess.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="48e034a7-0ff2-49b1-a53a-706ad508f758" Title="HealAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.HealAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.HealAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.HealAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.HealAction.DestinationName.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.HealAction.MessText.htm" />
+        <HelpTOCNode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.HealAction.SecondaryAction.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.HealAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="27f404ef-f89b-4a53-bed9-5ce538a2dfd6" Title="LearnAction Class" Url="html/T-Assets.Scripts.Actions.LearnAction.htm">
+      <HelpTOCNode Title="LearnAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.LearnAction.htm" />
+      <HelpTOCNode Title="LearnAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.LearnAction.htm" />
+      <HelpTOCNode Id="a8a26b9b-ec4d-48a4-8579-c2ed3671a82b" Title="LearnAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.LearnAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.LearnAction.ActionName.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.LearnAction.DestinationName.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.LearnAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7aa9c371-8334-4229-9e7e-5d3bb6d20bf0" Title="PickFoodAction Class" Url="html/T-Assets.Scripts.Actions.PickFoodAction.htm">
+      <HelpTOCNode Title="PickFoodAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickFoodAction.htm" />
+      <HelpTOCNode Id="63f66b9a-29f8-479f-86bd-1c9b87cbd24b" Title="PickFoodAction Fields" Url="html/Fields.T-Assets.Scripts.Actions.PickFoodAction.htm">
+        <HelpTOCNode Title="destinations Field" Url="html/F-Assets.Scripts.Actions.PickFoodAction.destinations.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="05e0799e-b7cc-4775-8331-9c5486d7ad1e" Title="PickFoodAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.PickFoodAction.htm">
+        <HelpTOCNode Title="GetRandomDestination Method " Url="html/M-Assets.Scripts.Actions.PickFoodAction.GetRandomDestination.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PickFoodAction.MakeAMess.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Actions.PickFoodAction.Start.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b2a2c979-ab9b-4a8f-9e0f-476c8f06b50d" Title="PickFoodAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.PickFoodAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.DestinationName.htm" />
+        <HelpTOCNode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.IncrementQuantity.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PickFoodAction.MessText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aaa4c171-1c9f-4ecd-a869-955da03081ce" Title="PickResourcesAction Class" Url="html/T-Assets.Scripts.Actions.PickResourcesAction.htm">
+      <HelpTOCNode Title="PickResourcesAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickResourcesAction.htm" />
+      <HelpTOCNode Id="9136e5e7-0210-4525-9737-77096254e536" Title="PickResourcesAction Fields" Url="html/Fields.T-Assets.Scripts.Actions.PickResourcesAction.htm">
+        <HelpTOCNode Title="destinations Field" Url="html/F-Assets.Scripts.Actions.PickResourcesAction.destinations.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b31ac575-773c-48e8-aa4d-1d72dceb6633" Title="PickResourcesAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.PickResourcesAction.htm">
+        <HelpTOCNode Title="GetRandomDestination Method " Url="html/M-Assets.Scripts.Actions.PickResourcesAction.GetRandomDestination.htm" />
+        <HelpTOCNode Title="GoRest Method " Url="html/M-Assets.Scripts.Actions.PickResourcesAction.GoRest.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PickResourcesAction.MakeAMess.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Actions.PickResourcesAction.Start.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3c869805-9478-4112-9e90-8d191a7b777d" Title="PickResourcesAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.PickResourcesAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.DestinationName.htm" />
+        <HelpTOCNode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.IncrementQuantity.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PickResourcesAction.MessText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="40d7abf9-9635-4508-b25c-d58075324c12" Title="PickWaterAction Class" Url="html/T-Assets.Scripts.Actions.PickWaterAction.htm">
+      <HelpTOCNode Title="PickWaterAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PickWaterAction.htm" />
+      <HelpTOCNode Id="91e59ea1-3b26-426f-9858-681d1b42703a" Title="PickWaterAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.PickWaterAction.htm">
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PickWaterAction.MakeAMess.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a4bc2688-702a-449a-8742-2b0941ff55d2" Title="PickWaterAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.PickWaterAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.DestinationName.htm" />
+        <HelpTOCNode Title="IncrementQuantity Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.IncrementQuantity.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PickWaterAction.MessText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="84230556-2f01-495b-bff0-154217011bdb" Title="PsychologistBeTreatedAction Class" Url="html/T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm">
+      <HelpTOCNode Title="PsychologistBeTreatedAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+      <HelpTOCNode Title="PsychologistBeTreatedAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm" />
+      <HelpTOCNode Id="db0b0208-8e78-4424-a8bd-08da50c99f06" Title="PsychologistBeTreatedAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.PsychologistBeTreatedAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.ActionName.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.DestinationName.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.PsychologistBeTreatedAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2bbf8d64-893b-4b4c-b441-9ed73ce5fe3d" Title="PsychologistTreatAction Class" Url="html/T-Assets.Scripts.Actions.PsychologistTreatAction.htm">
+      <HelpTOCNode Title="PsychologistTreatAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.PsychologistTreatAction.htm" />
+      <HelpTOCNode Id="b88b92c9-bc0f-406d-8c4c-e37b8e2da32f" Title="PsychologistTreatAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.PsychologistTreatAction.htm">
+        <HelpTOCNode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.PsychologistTreatAction.FinishSpecificAction.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.PsychologistTreatAction.MakeAMess.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d13cc1e9-692f-4e15-8e3b-19658a9d1e84" Title="PsychologistTreatAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.PsychologistTreatAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.DestinationName.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.MessText.htm" />
+        <HelpTOCNode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.SecondaryAction.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.PsychologistTreatAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1042ee0c-ac96-4aa0-a488-2e7328997491" Title="RestAction Class" Url="html/T-Assets.Scripts.Actions.RestAction.htm">
+      <HelpTOCNode Title="RestAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.RestAction.htm" />
+      <HelpTOCNode Id="c90548cb-898f-4610-80af-9d4d019c3a42" Title="RestAction Fields" Url="html/Fields.T-Assets.Scripts.Actions.RestAction.htm">
+        <HelpTOCNode Title="destinations Field" Url="html/F-Assets.Scripts.Actions.RestAction.destinations.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ccbcc1f0-6fcb-48ed-9a81-1b4fb198aa0e" Title="RestAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.RestAction.htm">
+        <HelpTOCNode Title="GetRandomDestination Method " Url="html/M-Assets.Scripts.Actions.RestAction.GetRandomDestination.htm" />
+        <HelpTOCNode Title="SelectAction Method " Url="html/M-Assets.Scripts.Actions.RestAction.SelectAction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="36da03b0-d7c9-407c-b028-4eb3df2463de" Title="RestAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.RestAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.RestAction.ActionName.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.RestAction.DestinationName.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.RestAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f7fea41c-3d2d-4cbd-9003-1a3d8f85b21f" Title="TeachAction Class" Url="html/T-Assets.Scripts.Actions.TeachAction.htm">
+      <HelpTOCNode Title="TeachAction Members" Url="html/AllMembers.T-Assets.Scripts.Actions.TeachAction.htm" />
+      <HelpTOCNode Id="b1051010-3bd5-4929-922b-d72bed150c99" Title="TeachAction Methods" Url="html/Methods.T-Assets.Scripts.Actions.TeachAction.htm">
+        <HelpTOCNode Title="FinishSpecificAction Method " Url="html/M-Assets.Scripts.Actions.TeachAction.FinishSpecificAction.htm" />
+        <HelpTOCNode Title="MakeAMess Method " Url="html/M-Assets.Scripts.Actions.TeachAction.MakeAMess.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="83df40c1-48ce-42dd-954e-ab247fef7b25" Title="TeachAction Properties" Url="html/Properties.T-Assets.Scripts.Actions.TeachAction.htm">
+        <HelpTOCNode Title="ActionName Property " Url="html/P-Assets.Scripts.Actions.TeachAction.ActionName.htm" />
+        <HelpTOCNode Title="ActionNameForMessages Property " Url="html/P-Assets.Scripts.Actions.TeachAction.ActionNameForMessages.htm" />
+        <HelpTOCNode Title="DestinationName Property " Url="html/P-Assets.Scripts.Actions.TeachAction.DestinationName.htm" />
+        <HelpTOCNode Title="MessText Property " Url="html/P-Assets.Scripts.Actions.TeachAction.MessText.htm" />
+        <HelpTOCNode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Actions.TeachAction.SecondaryAction.htm" />
+        <HelpTOCNode Title="WhereToLookAt Property " Url="html/P-Assets.Scripts.Actions.TeachAction.WhereToLookAt.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="dd951b67-d5fb-4d5c-9695-809b1f23aaf9" Title="Assets.Scripts.Game Namespace" Url="html/N-Assets.Scripts.Game.htm">
+    <HelpTOCNode Id="37c43ee2-e0af-43c9-8268-15a1cca590a7" Title="CameraHandler Class" Url="html/T-Assets.Scripts.Game.CameraHandler.htm">
+      <HelpTOCNode Title="CameraHandler Members" Url="html/AllMembers.T-Assets.Scripts.Game.CameraHandler.htm" />
+      <HelpTOCNode Id="75d4d906-fa22-472c-b9b4-f6ed02e3eb5e" Title="CameraHandler Fields" Url="html/Fields.T-Assets.Scripts.Game.CameraHandler.htm">
+        <HelpTOCNode Title="zoom Field" Url="html/F-Assets.Scripts.Game.CameraHandler.zoom.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3727ad48-4a22-4452-a56f-156a5585ede4" Title="CameraHandler Methods" Url="html/Methods.T-Assets.Scripts.Game.CameraHandler.htm">
+        <HelpTOCNode Title="HandleEdgeScrolling Method " Url="html/M-Assets.Scripts.Game.CameraHandler.HandleEdgeScrolling.htm" />
+        <HelpTOCNode Title="HandleZoom Method " Url="html/M-Assets.Scripts.Game.CameraHandler.HandleZoom.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-Assets.Scripts.Game.CameraHandler.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f6595e7b-1119-44eb-9da7-7ae6b8a8cbbb" Title="CharacterAction Class" Url="html/T-Assets.Scripts.Game.CharacterAction.htm">
+      <HelpTOCNode Title="CharacterAction Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterAction.htm" />
+      <HelpTOCNode Id="0874ab22-3de4-4084-97f9-b3c07363f1ca" Title="CharacterAction Properties" Url="html/Properties.T-Assets.Scripts.Game.CharacterAction.htm">
+        <HelpTOCNode Title="Action Property " Url="html/P-Assets.Scripts.Game.CharacterAction.Action.htm" />
+        <HelpTOCNode Title="Character Property " Url="html/P-Assets.Scripts.Game.CharacterAction.Character.htm" />
+        <HelpTOCNode Title="CharacterScript Property " Url="html/P-Assets.Scripts.Game.CharacterAction.CharacterScript.htm" />
+        <HelpTOCNode Title="LastSelected Property " Url="html/P-Assets.Scripts.Game.CharacterAction.LastSelected.htm" />
+        <HelpTOCNode Title="ObjectToGo Property " Url="html/P-Assets.Scripts.Game.CharacterAction.ObjectToGo.htm" />
+        <HelpTOCNode Title="SecondaryAction Property " Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryAction.htm" />
+        <HelpTOCNode Title="SecondaryCharacter Property " Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryCharacter.htm" />
+        <HelpTOCNode Title="SecondaryCharacterScript Property " Url="html/P-Assets.Scripts.Game.CharacterAction.SecondaryCharacterScript.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P-Assets.Scripts.Game.CharacterAction.StartTime.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P-Assets.Scripts.Game.CharacterAction.Status.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="03116577-9688-4c57-9fb5-6dc98570374e" Title="CharacterActionsController Class" Url="html/T-Assets.Scripts.Game.CharacterActionsController.htm">
+      <HelpTOCNode Title="CharacterActionsController Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterActionsController.htm" />
+      <HelpTOCNode Id="e9411274-6b5d-48c6-a3df-2a33b4254e69" Title="CharacterActionsController Fields" Url="html/Fields.T-Assets.Scripts.Game.CharacterActionsController.htm">
+        <HelpTOCNode Title="charActionPairs Field" Url="html/F-Assets.Scripts.Game.CharacterActionsController.charActionPairs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1a2d119c-7b0f-45bc-907b-273a504356ef" Title="CharacterActionsController Methods" Url="html/Methods.T-Assets.Scripts.Game.CharacterActionsController.htm">
+        <HelpTOCNode Title="FinishAction Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.FinishAction.htm" />
+        <HelpTOCNode Title="GetCharacterActionOfCharacter Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetCharacterActionOfCharacter.htm" />
+        <HelpTOCNode Title="GetCharacterActionOfSecondaryCharacter Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetCharacterActionOfSecondaryCharacter.htm" />
+        <HelpTOCNode Title="GetLastSelectedCharacterAction Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetLastSelectedCharacterAction.htm" />
+        <HelpTOCNode Title="GetLastWaitingAction Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetLastWaitingAction.htm" />
+        <HelpTOCNode Title="GetNumberOfActiveCharacters Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetNumberOfActiveCharacters.htm" />
+        <HelpTOCNode Title="GetNumberOfCharacters Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetNumberOfCharacters.htm" />
+        <HelpTOCNode Title="GetPrimaryCharacterActionOfSecondaryCharacterAction Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.GetPrimaryCharacterActionOfSecondaryCharacterAction.htm" />
+        <HelpTOCNode Title="IsThereAnyActiveCharacter Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.IsThereAnyActiveCharacter.htm" />
+        <HelpTOCNode Title="SelectRandomCharacterAction Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.SelectRandomCharacterAction.htm" />
+        <HelpTOCNode Title="UnselectLastCharacter Method " Url="html/M-Assets.Scripts.Game.CharacterActionsController.UnselectLastCharacter.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="CharacterActionStatus Enumeration" Url="html/T-Assets.Scripts.Game.CharacterActionStatus.htm" />
+    <HelpTOCNode Id="01c41766-35cb-4dba-a4a2-e36dceddb95a" Title="CharacterController Class" Url="html/T-Assets.Scripts.Game.CharacterController.htm">
+      <HelpTOCNode Title="CharacterController Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterController.htm" />
+      <HelpTOCNode Id="eb10ffb8-d85d-48f7-832b-f39c62cddc15" Title="CharacterController Fields" Url="html/Fields.T-Assets.Scripts.Game.CharacterController.htm">
+        <HelpTOCNode Title="actionRemainingTime Field" Url="html/F-Assets.Scripts.Game.CharacterController.actionRemainingTime.htm" />
+        <HelpTOCNode Title="animator Field" Url="html/F-Assets.Scripts.Game.CharacterController.animator.htm" />
+        <HelpTOCNode Title="centerPosition Field" Url="html/F-Assets.Scripts.Game.CharacterController.centerPosition.htm" />
+        <HelpTOCNode Title="characterName Field" Url="html/F-Assets.Scripts.Game.CharacterController.characterName.htm" />
+        <HelpTOCNode Title="characterStats Field" Url="html/F-Assets.Scripts.Game.CharacterController.characterStats.htm" />
+        <HelpTOCNode Title="characterStatsManager Field" Url="html/F-Assets.Scripts.Game.CharacterController.characterStatsManager.htm" />
+        <HelpTOCNode Title="dead Field" Url="html/F-Assets.Scripts.Game.CharacterController.dead.htm" />
+        <HelpTOCNode Title="deathTime Field" Url="html/F-Assets.Scripts.Game.CharacterController.deathTime.htm" />
+        <HelpTOCNode Title="free Field" Url="html/F-Assets.Scripts.Game.CharacterController.free.htm" />
+        <HelpTOCNode Title="gender Field" Url="html/F-Assets.Scripts.Game.CharacterController.gender.htm" />
+        <HelpTOCNode Title="isSelected Field" Url="html/F-Assets.Scripts.Game.CharacterController.isSelected.htm" />
+        <HelpTOCNode Title="navMeshAgent Field" Url="html/F-Assets.Scripts.Game.CharacterController.navMeshAgent.htm" />
+        <HelpTOCNode Title="originalColor Field" Url="html/F-Assets.Scripts.Game.CharacterController.originalColor.htm" />
+        <HelpTOCNode Title="originalPosition Field" Url="html/F-Assets.Scripts.Game.CharacterController.originalPosition.htm" />
+        <HelpTOCNode Title="running Field" Url="html/F-Assets.Scripts.Game.CharacterController.running.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6dc1aa25-e7b9-4590-963f-e31315dbd2f4" Title="CharacterController Methods" Url="html/Methods.T-Assets.Scripts.Game.CharacterController.htm">
+        <HelpTOCNode Title="Die Method " Url="html/M-Assets.Scripts.Game.CharacterController.Die.htm" />
+        <HelpTOCNode Title="GoToPosition Method " Url="html/M-Assets.Scripts.Game.CharacterController.GoToPosition.htm" />
+        <HelpTOCNode Title="HideActionRemainingTime Method " Url="html/M-Assets.Scripts.Game.CharacterController.HideActionRemainingTime.htm" />
+        <HelpTOCNode Title="OnCollisionEnter Method " Url="html/M-Assets.Scripts.Game.CharacterController.OnCollisionEnter.htm" />
+        <HelpTOCNode Title="OnMouseDown Method " Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseDown.htm" />
+        <HelpTOCNode Title="OnMouseExit Method " Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseExit.htm" />
+        <HelpTOCNode Title="OnMouseOver Method " Url="html/M-Assets.Scripts.Game.CharacterController.OnMouseOver.htm" />
+        <HelpTOCNode Title="ShowActionRemainingTime Method " Url="html/M-Assets.Scripts.Game.CharacterController.ShowActionRemainingTime.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Game.CharacterController.Start.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-Assets.Scripts.Game.CharacterController.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bf3d32bb-597b-4f5c-8c44-d53b7cefd322" Title="CharacterStats Class" Url="html/T-Assets.Scripts.Game.CharacterStats.htm">
+      <HelpTOCNode Title="CharacterStats Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStats.htm" />
+      <HelpTOCNode Id="699e595c-dc55-4b51-aa80-3092861f9a37" Title="CharacterStats Properties" Url="html/Properties.T-Assets.Scripts.Game.CharacterStats.htm">
+        <HelpTOCNode Title="Action Property " Url="html/P-Assets.Scripts.Game.CharacterStats.Action.htm" />
+        <HelpTOCNode Title="Aptitude Property " Url="html/P-Assets.Scripts.Game.CharacterStats.Aptitude.htm" />
+        <HelpTOCNode Title="Attitude Property " Url="html/P-Assets.Scripts.Game.CharacterStats.Attitude.htm" />
+        <HelpTOCNode Title="CharacterMovement Property " Url="html/P-Assets.Scripts.Game.CharacterStats.CharacterMovement.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2add17d8-b910-48ac-9875-fe88d7ac0422" Title="CharacterStatsManager Class" Url="html/T-Assets.Scripts.Game.CharacterStatsManager.htm">
+      <HelpTOCNode Title="CharacterStatsManager Members" Url="html/AllMembers.T-Assets.Scripts.Game.CharacterStatsManager.htm" />
+      <HelpTOCNode Id="6bc87b86-2fb7-49ea-8cf9-994099466519" Title="CharacterStatsManager Methods" Url="html/Methods.T-Assets.Scripts.Game.CharacterStatsManager.htm">
+        <HelpTOCNode Title="AssignRandomAttitudeAndAptitude Method " Url="html/M-Assets.Scripts.Game.CharacterStatsManager.AssignRandomAttitudeAndAptitude.htm" />
+        <HelpTOCNode Title="GetActions Method " Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetActions.htm" />
+        <HelpTOCNode Title="GetRandomAptitudeValue Method " Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetRandomAptitudeValue.htm" />
+        <HelpTOCNode Title="GetRandomAttitudeValue Method " Url="html/M-Assets.Scripts.Game.CharacterStatsManager.GetRandomAttitudeValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9955f28f-6b8c-472b-90d8-a7a3f9512905" Title="Constants Class" Url="html/T-Assets.Scripts.Game.Constants.htm">
+      <HelpTOCNode Title="Constants Members" Url="html/AllMembers.T-Assets.Scripts.Game.Constants.htm" />
+      <HelpTOCNode Id="fead2f79-35b3-445c-81d2-8e4d2e2eeb8b" Title="Constants Fields" Url="html/Fields.T-Assets.Scripts.Game.Constants.htm">
+        <HelpTOCNode Title="boatDamageInMesh Field" Url="html/F-Assets.Scripts.Game.Constants.boatDamageInMesh.htm" />
+        <HelpTOCNode Title="buildBoatActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.buildBoatActionMessText.htm" />
+        <HelpTOCNode Title="buildingDamageEachTime Field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageEachTime.htm" />
+        <HelpTOCNode Title="buildingDamageFrequency Field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageFrequency.htm" />
+        <HelpTOCNode Title="buildingDamageInMesh Field" Url="html/F-Assets.Scripts.Game.Constants.buildingDamageInMesh.htm" />
+        <HelpTOCNode Title="buildRefugeActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.buildRefugeActionMessText.htm" />
+        <HelpTOCNode Title="characterRotationSpeed Field" Url="html/F-Assets.Scripts.Game.Constants.characterRotationSpeed.htm" />
+        <HelpTOCNode Title="characterSpeed Field" Url="html/F-Assets.Scripts.Game.Constants.characterSpeed.htm" />
+        <HelpTOCNode Title="dieText Field" Url="html/F-Assets.Scripts.Game.Constants.dieText.htm" />
+        <HelpTOCNode Title="foodConsumptionFrequency Field" Url="html/F-Assets.Scripts.Game.Constants.foodConsumptionFrequency.htm" />
+        <HelpTOCNode Title="foodConsumptionPerCharacter Field" Url="html/F-Assets.Scripts.Game.Constants.foodConsumptionPerCharacter.htm" />
+        <HelpTOCNode Title="healActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.healActionMessText.htm" />
+        <HelpTOCNode Title="healthDecreaseInFoodMesh Field" Url="html/F-Assets.Scripts.Game.Constants.healthDecreaseInFoodMesh.htm" />
+        <HelpTOCNode Title="hoursElapsedForSunstrokeDanger Field" Url="html/F-Assets.Scripts.Game.Constants.hoursElapsedForSunstrokeDanger.htm" />
+        <HelpTOCNode Title="initialPoints Field" Url="html/F-Assets.Scripts.Game.Constants.initialPoints.htm" />
+        <HelpTOCNode Title="lowAttitudeLimitAsTimePassing Field" Url="html/F-Assets.Scripts.Game.Constants.lowAttitudeLimitAsTimePassing.htm" />
+        <HelpTOCNode Title="maxHealth Field" Url="html/F-Assets.Scripts.Game.Constants.maxHealth.htm" />
+        <HelpTOCNode Title="maxZoom Field" Url="html/F-Assets.Scripts.Game.Constants.maxZoom.htm" />
+        <HelpTOCNode Title="mDelta Field" Url="html/F-Assets.Scripts.Game.Constants.mDelta.htm" />
+        <HelpTOCNode Title="millisecondsCharacterRemainsDead Field" Url="html/F-Assets.Scripts.Game.Constants.millisecondsCharacterRemainsDead.htm" />
+        <HelpTOCNode Title="millisecondsInAnHour Field" Url="html/F-Assets.Scripts.Game.Constants.millisecondsInAnHour.htm" />
+        <HelpTOCNode Title="minZoom Field" Url="html/F-Assets.Scripts.Game.Constants.minZoom.htm" />
+        <HelpTOCNode Title="mSpeed Field" Url="html/F-Assets.Scripts.Game.Constants.mSpeed.htm" />
+        <HelpTOCNode Title="neededResourcesToBuildBoat Field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToBuildBoat.htm" />
+        <HelpTOCNode Title="neededResourcesToBuildRefuge Field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToBuildRefuge.htm" />
+        <HelpTOCNode Title="neededResourcesToRepairRefuge Field" Url="html/F-Assets.Scripts.Game.Constants.neededResourcesToRepairRefuge.htm" />
+        <HelpTOCNode Title="pickFoodActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.pickFoodActionMessText.htm" />
+        <HelpTOCNode Title="pickResourcesActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.pickResourcesActionMessText.htm" />
+        <HelpTOCNode Title="pickResourcesActionTimeMultiplierInRest Field" Url="html/F-Assets.Scripts.Game.Constants.pickResourcesActionTimeMultiplierInRest.htm" />
+        <HelpTOCNode Title="pickWaterActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.pickWaterActionMessText.htm" />
+        <HelpTOCNode Title="pointsDecreasePerDeadCharacter Field" Url="html/F-Assets.Scripts.Game.Constants.pointsDecreasePerDeadCharacter.htm" />
+        <HelpTOCNode Title="pointsDecreasePerHour Field" Url="html/F-Assets.Scripts.Game.Constants.pointsDecreasePerHour.htm" />
+        <HelpTOCNode Title="possibleDeathLimit Field" Url="html/F-Assets.Scripts.Game.Constants.possibleDeathLimit.htm" />
+        <HelpTOCNode Title="pourWaterQuantity Field" Url="html/F-Assets.Scripts.Game.Constants.pourWaterQuantity.htm" />
+        <HelpTOCNode Title="privateCode Field" Url="html/F-Assets.Scripts.Game.Constants.privateCode.htm" />
+        <HelpTOCNode Title="psychologistTreatActionDowngradeText Field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionDowngradeText.htm" />
+        <HelpTOCNode Title="psychologistTreatActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionMessText.htm" />
+        <HelpTOCNode Title="psychologistTreatActionUpgradeText Field" Url="html/F-Assets.Scripts.Game.Constants.psychologistTreatActionUpgradeText.htm" />
+        <HelpTOCNode Title="publicCode Field" Url="html/F-Assets.Scripts.Game.Constants.publicCode.htm" />
+        <HelpTOCNode Title="sunHealthDamagePerHour Field" Url="html/F-Assets.Scripts.Game.Constants.sunHealthDamagePerHour.htm" />
+        <HelpTOCNode Title="teachActionALittleBetterButBadText Field" Url="html/F-Assets.Scripts.Game.Constants.teachActionALittleBetterButBadText.htm" />
+        <HelpTOCNode Title="teachActionALittleBetterText Field" Url="html/F-Assets.Scripts.Game.Constants.teachActionALittleBetterText.htm" />
+        <HelpTOCNode Title="teachActionBadTeacherText Field" Url="html/F-Assets.Scripts.Game.Constants.teachActionBadTeacherText.htm" />
+        <HelpTOCNode Title="teachActionExpertText Field" Url="html/F-Assets.Scripts.Game.Constants.teachActionExpertText.htm" />
+        <HelpTOCNode Title="teachActionMessText Field" Url="html/F-Assets.Scripts.Game.Constants.teachActionMessText.htm" />
+        <HelpTOCNode Title="teachActionQuiteGoodText Field" Url="html/F-Assets.Scripts.Game.Constants.teachActionQuiteGoodText.htm" />
+        <HelpTOCNode Title="teachActionVeryGoodText Field" Url="html/F-Assets.Scripts.Game.Constants.teachActionVeryGoodText.htm" />
+        <HelpTOCNode Title="tooMuchSunText Field" Url="html/F-Assets.Scripts.Game.Constants.tooMuchSunText.htm" />
+        <HelpTOCNode Title="waterConsumptionFrequency Field" Url="html/F-Assets.Scripts.Game.Constants.waterConsumptionFrequency.htm" />
+        <HelpTOCNode Title="waterConsumptionPerCharacter Field" Url="html/F-Assets.Scripts.Game.Constants.waterConsumptionPerCharacter.htm" />
+        <HelpTOCNode Title="webURL Field" Url="html/F-Assets.Scripts.Game.Constants.webURL.htm" />
+        <HelpTOCNode Title="zoomChangeAmount Field" Url="html/F-Assets.Scripts.Game.Constants.zoomChangeAmount.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fbc2ad26-db63-485d-a8a5-5cd04dc301de" Title="CourseOfTime Class" Url="html/T-Assets.Scripts.Game.CourseOfTime.htm">
+      <HelpTOCNode Title="CourseOfTime Members" Url="html/AllMembers.T-Assets.Scripts.Game.CourseOfTime.htm" />
+      <HelpTOCNode Id="50a28696-72b0-42aa-a5c8-7ab884c5a4f0" Title="CourseOfTime Fields" Url="html/Fields.T-Assets.Scripts.Game.CourseOfTime.htm">
+        <HelpTOCNode Title="elapsedDays Field" Url="html/F-Assets.Scripts.Game.CourseOfTime.elapsedDays.htm" />
+        <HelpTOCNode Title="elapsedHours Field" Url="html/F-Assets.Scripts.Game.CourseOfTime.elapsedHours.htm" />
+        <HelpTOCNode Title="gameOverPanel Field" Url="html/F-Assets.Scripts.Game.CourseOfTime.gameOverPanel.htm" />
+        <HelpTOCNode Title="startTime Field" Url="html/F-Assets.Scripts.Game.CourseOfTime.startTime.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c0a7b7fa-3801-48e1-b594-a47794c4b565" Title="CourseOfTime Methods" Url="html/Methods.T-Assets.Scripts.Game.CourseOfTime.htm">
+        <HelpTOCNode Title="DecreaseMotivation Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.DecreaseMotivation.htm" />
+        <HelpTOCNode Title="IncrementDay Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.IncrementDay.htm" />
+        <HelpTOCNode Title="IncrementHour Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.IncrementHour.htm" />
+        <HelpTOCNode Title="PossibleDeath Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.PossibleDeath.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.Start.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-Assets.Scripts.Game.CourseOfTime.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1b144dd6-6414-4967-b560-f29cdbcfc9ab" Title="DontDestroyAudio Class" Url="html/T-Assets.Scripts.Game.DontDestroyAudio.htm">
+      <HelpTOCNode Title="DontDestroyAudio Members" Url="html/AllMembers.T-Assets.Scripts.Game.DontDestroyAudio.htm" />
+      <HelpTOCNode Id="e32a1afa-f41c-4c17-a7b4-190fbdecbbf4" Title="DontDestroyAudio Methods" Url="html/Methods.T-Assets.Scripts.Game.DontDestroyAudio.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/M-Assets.Scripts.Game.DontDestroyAudio.Awake.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9970a8a9-05c0-4cb2-b14d-d52b9e298f7c" Title="Inventory Class" Url="html/T-Assets.Scripts.Game.Inventory.htm">
+      <HelpTOCNode Title="Inventory Members" Url="html/AllMembers.T-Assets.Scripts.Game.Inventory.htm" />
+      <HelpTOCNode Id="1e89b2e0-c0b3-4b20-894d-76f9b4f25851" Title="Inventory Fields" Url="html/Fields.T-Assets.Scripts.Game.Inventory.htm">
+        <HelpTOCNode Title="boatBuildPercentage Field" Url="html/F-Assets.Scripts.Game.Inventory.boatBuildPercentage.htm" />
+        <HelpTOCNode Title="boatFinished Field" Url="html/F-Assets.Scripts.Game.Inventory.boatFinished.htm" />
+        <HelpTOCNode Title="buildBoatButtonActive Field" Url="html/F-Assets.Scripts.Game.Inventory.buildBoatButtonActive.htm" />
+        <HelpTOCNode Title="canBuildBoatText Field" Url="html/F-Assets.Scripts.Game.Inventory.canBuildBoatText.htm" />
+        <HelpTOCNode Title="characters Field" Url="html/F-Assets.Scripts.Game.Inventory.characters.htm" />
+        <HelpTOCNode Title="fill Field" Url="html/F-Assets.Scripts.Game.Inventory.fill.htm" />
+        <HelpTOCNode Title="foodUnits Field" Url="html/F-Assets.Scripts.Game.Inventory.foodUnits.htm" />
+        <HelpTOCNode Title="healthPoints Field" Url="html/F-Assets.Scripts.Game.Inventory.healthPoints.htm" />
+        <HelpTOCNode Title="numberOfActiveCharacters Field" Url="html/F-Assets.Scripts.Game.Inventory.numberOfActiveCharacters.htm" />
+        <HelpTOCNode Title="refugeBuildPercentage Field" Url="html/F-Assets.Scripts.Game.Inventory.refugeBuildPercentage.htm" />
+        <HelpTOCNode Title="refugeFinished Field" Url="html/F-Assets.Scripts.Game.Inventory.refugeFinished.htm" />
+        <HelpTOCNode Title="resourcesUnits Field" Url="html/F-Assets.Scripts.Game.Inventory.resourcesUnits.htm" />
+        <HelpTOCNode Title="slider Field" Url="html/F-Assets.Scripts.Game.Inventory.slider.htm" />
+        <HelpTOCNode Title="waterUnits Field" Url="html/F-Assets.Scripts.Game.Inventory.waterUnits.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="457f4b18-a18f-4622-aefb-9e79f49d2e03" Title="Inventory Methods" Url="html/Methods.T-Assets.Scripts.Game.Inventory.htm">
+        <HelpTOCNode Title="ActivateBuildBoatButton Method " Url="html/M-Assets.Scripts.Game.Inventory.ActivateBuildBoatButton.htm" />
+        <HelpTOCNode Title="ConsumeFood Method " Url="html/M-Assets.Scripts.Game.Inventory.ConsumeFood.htm" />
+        <HelpTOCNode Title="ConsumeResources Method " Url="html/M-Assets.Scripts.Game.Inventory.ConsumeResources.htm" />
+        <HelpTOCNode Title="ConsumeWater Method " Url="html/M-Assets.Scripts.Game.Inventory.ConsumeWater.htm" />
+        <HelpTOCNode Title="DamageBoat Method " Url="html/M-Assets.Scripts.Game.Inventory.DamageBoat.htm" />
+        <HelpTOCNode Title="DamageBuilding Method " Url="html/M-Assets.Scripts.Game.Inventory.DamageBuilding.htm" />
+        <HelpTOCNode Title="DamageHealth Method " Url="html/M-Assets.Scripts.Game.Inventory.DamageHealth.htm" />
+        <HelpTOCNode Title="DecreaseHealth Method " Url="html/M-Assets.Scripts.Game.Inventory.DecreaseHealth.htm" />
+        <HelpTOCNode Title="GetHealth Method " Url="html/M-Assets.Scripts.Game.Inventory.GetHealth.htm" />
+        <HelpTOCNode Title="HaveSunstroke Method " Url="html/M-Assets.Scripts.Game.Inventory.HaveSunstroke.htm" />
+        <HelpTOCNode Title="Heal Method " Url="html/M-Assets.Scripts.Game.Inventory.Heal.htm" />
+        <HelpTOCNode Title="Increment Method " Url="html/M-Assets.Scripts.Game.Inventory.Increment.htm" />
+        <HelpTOCNode Title="PeriodicBuildingDamage Method " Url="html/M-Assets.Scripts.Game.Inventory.PeriodicBuildingDamage.htm" />
+        <HelpTOCNode Title="PourWater Method " Url="html/M-Assets.Scripts.Game.Inventory.PourWater.htm" />
+        <HelpTOCNode Title="SetHealth Method " Url="html/M-Assets.Scripts.Game.Inventory.SetHealth.htm" />
+        <HelpTOCNode Title="SetMaxHealth Method " Url="html/M-Assets.Scripts.Game.Inventory.SetMaxHealth.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Game.Inventory.Start.htm" />
+        <HelpTOCNode Title="TakeToxicFood Method " Url="html/M-Assets.Scripts.Game.Inventory.TakeToxicFood.htm" />
+        <HelpTOCNode Title="TearDownBoat Method " Url="html/M-Assets.Scripts.Game.Inventory.TearDownBoat.htm" />
+        <HelpTOCNode Title="TearDownRefuge Method " Url="html/M-Assets.Scripts.Game.Inventory.TearDownRefuge.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-Assets.Scripts.Game.Inventory.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="43eed6c3-2b4f-48b2-aee9-83c7a8226767" Title="Assets.Scripts.Highscores Namespace" Url="html/N-Assets.Scripts.Highscores.htm">
+    <HelpTOCNode Id="8f21e082-727d-4fb6-a7ca-37a174a41d7d" Title="Highscore Structure" Url="html/T-Assets.Scripts.Highscores.Highscore.htm">
+      <HelpTOCNode Title="Highscore Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscore.htm" />
+      <HelpTOCNode Title="Highscore Constructor " Url="html/M-Assets.Scripts.Highscores.Highscore.-ctor.htm" />
+      <HelpTOCNode Id="c4eb3d7e-2a13-47ba-a425-dae0eb311078" Title="Highscore Fields" Url="html/Fields.T-Assets.Scripts.Highscores.Highscore.htm">
+        <HelpTOCNode Title="score Field" Url="html/F-Assets.Scripts.Highscores.Highscore.score.htm" />
+        <HelpTOCNode Title="username Field" Url="html/F-Assets.Scripts.Highscores.Highscore.username.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c0e8248d-c2c8-41f6-81f4-d8a58d088760" Title="Highscores Class" Url="html/T-Assets.Scripts.Highscores.Highscores.htm">
+      <HelpTOCNode Title="Highscores Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.Highscores.htm" />
+      <HelpTOCNode Id="81c0dc37-2002-46fc-8df0-7648b71a2f9f" Title="Highscores Fields" Url="html/Fields.T-Assets.Scripts.Highscores.Highscores.htm">
+        <HelpTOCNode Title="highscoreDisplay Field" Url="html/F-Assets.Scripts.Highscores.Highscores.highscoreDisplay.htm" />
+        <HelpTOCNode Title="highscoresList Field" Url="html/F-Assets.Scripts.Highscores.Highscores.highscoresList.htm" />
+        <HelpTOCNode Title="instance Field" Url="html/F-Assets.Scripts.Highscores.Highscores.instance.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7111950f-cf5d-4fc7-9d9a-a2edbf9d3af2" Title="Highscores Methods" Url="html/Methods.T-Assets.Scripts.Highscores.Highscores.htm">
+        <HelpTOCNode Title="AddNewHighscore Method " Url="html/M-Assets.Scripts.Highscores.Highscores.AddNewHighscore.htm" />
+        <HelpTOCNode Title="Awake Method " Url="html/M-Assets.Scripts.Highscores.Highscores.Awake.htm" />
+        <HelpTOCNode Title="DownloadHighscores Method " Url="html/M-Assets.Scripts.Highscores.Highscores.DownloadHighscores.htm" />
+        <HelpTOCNode Title="DownloadHighscoresFromDatabase Method " Url="html/M-Assets.Scripts.Highscores.Highscores.DownloadHighscoresFromDatabase.htm" />
+        <HelpTOCNode Title="FormatHighscores Method " Url="html/M-Assets.Scripts.Highscores.Highscores.FormatHighscores.htm" />
+        <HelpTOCNode Title="UploadNewHighscore Method " Url="html/M-Assets.Scripts.Highscores.Highscores.UploadNewHighscore.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="44388146-c6d2-4fb0-9085-68ca94ca3b31" Title="HighscoresDisplay Class" Url="html/T-Assets.Scripts.Highscores.HighscoresDisplay.htm">
+      <HelpTOCNode Title="HighscoresDisplay Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresDisplay.htm" />
+      <HelpTOCNode Id="85d3834b-9329-4d9d-ad6e-f522f2289483" Title="HighscoresDisplay Fields" Url="html/Fields.T-Assets.Scripts.Highscores.HighscoresDisplay.htm">
+        <HelpTOCNode Title="highscoreFields Field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.highscoreFields.htm" />
+        <HelpTOCNode Title="highscoresManager Field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.highscoresManager.htm" />
+        <HelpTOCNode Title="lastHighscoreInLeaderboard Field" Url="html/F-Assets.Scripts.Highscores.HighscoresDisplay.lastHighscoreInLeaderboard.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fb91bb06-a2b7-45bb-a1b7-4033cf67a40a" Title="HighscoresDisplay Methods" Url="html/Methods.T-Assets.Scripts.Highscores.HighscoresDisplay.htm">
+        <HelpTOCNode Title="GetLastScoreInLeaderboard Method " Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.GetLastScoreInLeaderboard.htm" />
+        <HelpTOCNode Title="OnHighscoresDownloaded Method " Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.OnHighscoresDownloaded.htm" />
+        <HelpTOCNode Title="RefreshHighscores Method " Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.RefreshHighscores.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Highscores.HighscoresDisplay.Start.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d585b5c0-aaa9-4b7e-8ae0-d9251a138d25" Title="HighscoresManager Class" Url="html/T-Assets.Scripts.Highscores.HighscoresManager.htm">
+      <HelpTOCNode Title="HighscoresManager Members" Url="html/AllMembers.T-Assets.Scripts.Highscores.HighscoresManager.htm" />
+      <HelpTOCNode Id="f8fb428a-c70b-4258-83af-a91e99e68156" Title="HighscoresManager Fields" Url="html/Fields.T-Assets.Scripts.Highscores.HighscoresManager.htm">
+        <HelpTOCNode Title="highscoresDisplay Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.highscoresDisplay.htm" />
+        <HelpTOCNode Title="highscoresManager Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.highscoresManager.htm" />
+        <HelpTOCNode Title="insideRankingPanel Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.insideRankingPanel.htm" />
+        <HelpTOCNode Title="insideRankingScoreObject Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.insideRankingScoreObject.htm" />
+        <HelpTOCNode Title="outsideRankingPanel Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.outsideRankingPanel.htm" />
+        <HelpTOCNode Title="outsideRankingScoreObject Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.outsideRankingScoreObject.htm" />
+        <HelpTOCNode Title="playerName Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.playerName.htm" />
+        <HelpTOCNode Title="score Field" Url="html/F-Assets.Scripts.Highscores.HighscoresManager.score.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ebf356b8-beb6-41a1-b09c-aa4fb8f716ed" Title="HighscoresManager Methods" Url="html/Methods.T-Assets.Scripts.Highscores.HighscoresManager.htm">
+        <HelpTOCNode Title="AddHighscore Method " Url="html/M-Assets.Scripts.Highscores.HighscoresManager.AddHighscore.htm" />
+        <HelpTOCNode Title="ChangePanel Method " Url="html/M-Assets.Scripts.Highscores.HighscoresManager.ChangePanel.htm" />
+        <HelpTOCNode Title="CheckInsideRanking Method " Url="html/M-Assets.Scripts.Highscores.HighscoresManager.CheckInsideRanking.htm" />
+        <HelpTOCNode Title="GetHighscores Method " Url="html/M-Assets.Scripts.Highscores.HighscoresManager.GetHighscores.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.Highscores.HighscoresManager.Start.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b38ae529-d95e-42f2-831b-080b0f7190a1" Title="Assets.Scripts.UI Namespace" Url="html/N-Assets.Scripts.UI.htm">
+    <HelpTOCNode Id="acc4bb87-c557-44e3-9129-cf14487f815f" Title="MainMenu Class" Url="html/T-Assets.Scripts.UI.MainMenu.htm">
+      <HelpTOCNode Title="MainMenu Members" Url="html/AllMembers.T-Assets.Scripts.UI.MainMenu.htm" />
+      <HelpTOCNode Id="e7e85e1e-db40-4950-b097-43db194c5899" Title="MainMenu Methods" Url="html/Methods.T-Assets.Scripts.UI.MainMenu.htm">
+        <HelpTOCNode Title="PlayGame Method " Url="html/M-Assets.Scripts.UI.MainMenu.PlayGame.htm" />
+        <HelpTOCNode Title="QuitGame Method " Url="html/M-Assets.Scripts.UI.MainMenu.QuitGame.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf6c1a91-b8d4-4faa-a05f-5f15ab010933" Title="PauseMenu Class" Url="html/T-Assets.Scripts.UI.PauseMenu.htm">
+      <HelpTOCNode Title="PauseMenu Members" Url="html/AllMembers.T-Assets.Scripts.UI.PauseMenu.htm" />
+      <HelpTOCNode Id="dcbbb755-df2a-4bb7-a6ba-23159a603d4b" Title="PauseMenu Fields" Url="html/Fields.T-Assets.Scripts.UI.PauseMenu.htm">
+        <HelpTOCNode Title="gameIsPaused Field" Url="html/F-Assets.Scripts.UI.PauseMenu.gameIsPaused.htm" />
+        <HelpTOCNode Title="menuSceneName Field" Url="html/F-Assets.Scripts.UI.PauseMenu.menuSceneName.htm" />
+        <HelpTOCNode Title="pauseMenuUI Field" Url="html/F-Assets.Scripts.UI.PauseMenu.pauseMenuUI.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="33f182f5-1a2e-4d7b-b3de-646fba995cca" Title="PauseMenu Methods" Url="html/Methods.T-Assets.Scripts.UI.PauseMenu.htm">
+        <HelpTOCNode Title="LoadMainMenu Method " Url="html/M-Assets.Scripts.UI.PauseMenu.LoadMainMenu.htm" />
+        <HelpTOCNode Title="Pause Method " Url="html/M-Assets.Scripts.UI.PauseMenu.Pause.htm" />
+        <HelpTOCNode Title="QuitGame Method " Url="html/M-Assets.Scripts.UI.PauseMenu.QuitGame.htm" />
+        <HelpTOCNode Title="Resume Method " Url="html/M-Assets.Scripts.UI.PauseMenu.Resume.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-Assets.Scripts.UI.PauseMenu.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3268c974-2ef2-4bf4-8a90-a8ba7caeb430" Title="PopupManager Class" Url="html/T-Assets.Scripts.UI.PopupManager.htm">
+      <HelpTOCNode Title="PopupManager Members" Url="html/AllMembers.T-Assets.Scripts.UI.PopupManager.htm" />
+      <HelpTOCNode Id="b32acc78-86eb-4817-b17e-ec6412ff7242" Title="PopupManager Fields" Url="html/Fields.T-Assets.Scripts.UI.PopupManager.htm">
+        <HelpTOCNode Title="Panel Field" Url="html/F-Assets.Scripts.UI.PopupManager.Panel.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a5a3948-637c-4c90-b95e-7e90ffacbed9" Title="PopupManager Methods" Url="html/Methods.T-Assets.Scripts.UI.PopupManager.htm">
+        <HelpTOCNode Title="HideMessage Method " Url="html/M-Assets.Scripts.UI.PopupManager.HideMessage.htm" />
+        <HelpTOCNode Title="ShowMessage Method " Url="html/M-Assets.Scripts.UI.PopupManager.ShowMessage.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.UI.PopupManager.Start.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6ae41309-b7b7-48a1-ba09-1ee7aed4eefb" Title="TextUI Class" Url="html/T-Assets.Scripts.UI.TextUI.htm">
+      <HelpTOCNode Title="TextUI Members" Url="html/AllMembers.T-Assets.Scripts.UI.TextUI.htm" />
+      <HelpTOCNode Id="41e67044-d292-43ef-a737-4f8d7efd0cd8" Title="TextUI Fields" Url="html/Fields.T-Assets.Scripts.UI.TextUI.htm">
+        <HelpTOCNode Title="cameraToLookAt Field" Url="html/F-Assets.Scripts.UI.TextUI.cameraToLookAt.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c7c57b7-f62a-4890-963f-53692aff2903" Title="TextUI Methods" Url="html/Methods.T-Assets.Scripts.UI.TextUI.htm">
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.UI.TextUI.Start.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-Assets.Scripts.UI.TextUI.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e9ebbfef-bed3-48ff-a945-01f3dd02fe5e" Title="TutorialRectTransformSlider Class" Url="html/T-Assets.Scripts.UI.TutorialRectTransformSlider.htm">
+      <HelpTOCNode Title="TutorialRectTransformSlider Members" Url="html/AllMembers.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm" />
+      <HelpTOCNode Id="be3dc4bc-01f3-49ea-affa-97ae2c722648" Title="TutorialRectTransformSlider Fields" Url="html/Fields.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm">
+        <HelpTOCNode Title="gameObjectWithRectTransform Field" Url="html/F-Assets.Scripts.UI.TutorialRectTransformSlider.gameObjectWithRectTransform.htm" />
+        <HelpTOCNode Title="rectTransform Field" Url="html/F-Assets.Scripts.UI.TutorialRectTransformSlider.rectTransform.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f23d3d9b-19a6-4cdc-b77d-50fd52c01d52" Title="TutorialRectTransformSlider Methods" Url="html/Methods.T-Assets.Scripts.UI.TutorialRectTransformSlider.htm">
+        <HelpTOCNode Title="MoveDown Method " Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.MoveDown.htm" />
+        <HelpTOCNode Title="MoveUp Method " Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.MoveUp.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-Assets.Scripts.UI.TutorialRectTransformSlider.Start.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5d8133b6-c7d8-4b8a-ab59-20c44157e36b" Title="Assets.Scripts.Utils Namespace" Url="html/N-Assets.Scripts.Utils.htm">
+    <HelpTOCNode Title="Gender Enumeration" Url="html/T-Assets.Scripts.Utils.Gender.htm" />
+    <HelpTOCNode Id="f557f178-543c-4805-8978-092f2ea2bf6f" Title="StaticRandom Class" Url="html/T-Assets.Scripts.Utils.StaticRandom.htm">
+      <HelpTOCNode Title="StaticRandom Members" Url="html/AllMembers.T-Assets.Scripts.Utils.StaticRandom.htm" />
+      <HelpTOCNode Title="StaticRandom Constructor " Url="html/M-Assets.Scripts.Utils.StaticRandom.-ctor.htm" />
+      <HelpTOCNode Id="1ff8297b-bda1-46bd-91f3-865bd4abf67e" Title="StaticRandom Fields" Url="html/Fields.T-Assets.Scripts.Utils.StaticRandom.htm">
+        <HelpTOCNode Title="seed Field" Url="html/F-Assets.Scripts.Utils.StaticRandom.seed.htm" />
+        <HelpTOCNode Title="threadLocal Field" Url="html/F-Assets.Scripts.Utils.StaticRandom.threadLocal.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3d4e815e-2951-4430-898c-6bc295f0dfc8" Title="StaticRandom Properties" Url="html/Properties.T-Assets.Scripts.Utils.StaticRandom.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/P-Assets.Scripts.Utils.StaticRandom.Instance.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b4d5379f-8f0c-46cb-b436-0e66c8332231" Title="Utils Class" Url="html/T-Assets.Scripts.Utils.Utils.htm">
+      <HelpTOCNode Title="Utils Members" Url="html/AllMembers.T-Assets.Scripts.Utils.Utils.htm" />
+      <HelpTOCNode Id="6352c0cd-7b21-499a-8161-017d2b36f71c" Title="Utils Methods" Url="html/Methods.T-Assets.Scripts.Utils.Utils.htm">
+        <HelpTOCNode Title="GetCenteredPositions Method " Url="html/M-Assets.Scripts.Utils.Utils.GetCenteredPositions.htm" />
+        <HelpTOCNode Title="GetRandomCenteredPosition Method " Url="html/M-Assets.Scripts.Utils.Utils.GetRandomCenteredPosition.htm" />
+        <HelpTOCNode Title="GetRandomName Method " Url="html/M-Assets.Scripts.Utils.Utils.GetRandomName.htm" />
+        <HelpTOCNode Title="PositionsAreNear Method " Url="html/M-Assets.Scripts.Utils.Utils.PositionsAreNear.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="280053e8-3843-4a46-a09b-70e49bc7e86d" Title="Utils Properties" Url="html/Properties.T-Assets.Scripts.Utils.Utils.htm">
+        <HelpTOCNode Title="Center Property " Url="html/P-Assets.Scripts.Utils.Utils.Center.htm" />
+        <HelpTOCNode Title="FemaleNames Property " Url="html/P-Assets.Scripts.Utils.Utils.FemaleNames.htm" />
+        <HelpTOCNode Title="MaleNames Property " Url="html/P-Assets.Scripts.Utils.Utils.MaleNames.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
